@@ -1,0 +1,53 @@
+This is a collection of C++ and prolog code which come together to
+create a method for checking conflicts with course requirements
+between course requirements and students. There are also txt files
+which contain testcases as well as all courses and majors I have
+documented on the self-service website for Roanoke College as of the
+Spring Semester of 2022.
+
+To begin, extract the zip file and navigate to the directory using the
+terminal. Type 'make driver' to initialize the C++ code, and then run
+the command './driver' to initialize the prolog code. From here, enter
+the swi prolog environment by typing 'swipl test.pl'.
+
+There are a collection of facts which can be ran on singular courses
+and all courses. The main facts of interest are
+check-non-existent-reqs and find-redundancy. There are other facts
+listed within the document, however these are the one's which the
+results of the project were found using. These can be used to find
+contradictions on single courses or all courses. To check for a single
+course, determine which course you want to take, and run the code
+using that course as a parameter.
+
+Example:
+check-non-existent-reqs(cpsc-250).
+find-redundancy(biol-100).
+
+To check for all courses use the following code for each example:
+
+forall(courseName(X), check-non-existent-reqs(X)).
+forall(courseName(X), find-redundancy(X)).
+
+Determining which course is causing a problem using this method is
+difficult to trace, so there are some debugging text printout that
+have been commented out. To restore this debugging feature, navigate
+to the test2.pl file in the directory, open it using the command:
+'emacs test2.pl', and simply remove the % before each 'write' call
+in the respective function (either check-non-existent-reqs(X) or
+find-redundancy(X)).
+
+When testing all courses, you can remove problem courses from the
+finalCourseDoc.txt to find further errors. Once this is done, exit the
+swipl environment, run the ./driver command, and re-enter the swi
+prolog environment through typing 'swipl test.pl'. Should you need to
+restore the document later, the text document originFinal.txt exists
+as a backup of the finalCourseDoc.txt. Simply remove the content from
+the altered finalCourseDoc.txt and copy the content from the
+originFinal.txt to the finalCourseDoc.txt.
+
+Included in this package is a test case document named
+testcases.txt. This document contains code for running test cases and
+instructions on how to run them. This serves as a way to ensure the
+code works as intended after alterations. Further instructions are
+included in the testcases.txt document on how to execute these test
+cases.

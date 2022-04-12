@@ -1,0 +1,297 @@
+Add this to the following to the test2.pl file to run test cases:
+-----------------------------------------------------------------
+student(steven).
+
+allReqs(cpsc-610, [math-121, stat-210, stat-220]).
+softReqs(cpsc-610, [3, math-121, stat-210, stat-220]).
+canTake(Student, cpsc-610):- student(Student),
+			     takingTaken(Student, math-121, X0),
+			     takingTaken(Student, stat-210, X1),
+			     takingTaken(Student, stat-220, X2),
+			     Y is X0+X1+X2,
+			     Y >= 3.
+
+allReqs(math-610, [math-121, stat-210, stat-220]).
+softReqs(math-610, [4, math-121, stat-210, stat-220]).
+canTake(Student, math-610):- student(Student),
+			     takingTaken(Student, math-121, X0),
+			     takingTaken(Student, stat-210, X1),
+			     takingTaken(Student, stat-220, X2),
+			     Y is X0+X1+X2,
+			     Y >= 4.
+
+allReqs(bio-100, [math-121, stat-210, stat-220]).
+softReqs(bio-100, [0, math-121, stat-210, stat-220]).
+canTake(Student, bio-100):- student(Student),
+			     takingTaken(Student, math-121, X0),
+			     takingTaken(Student, stat-210, X1),
+			     takingTaken(Student, stat-220, X2),
+			     Y is X0+X1+X2,
+			     Y >= 0.
+
+allReqs(cpsc-100, [cpsc-000, math-100]).
+hardReqs(cpsc-100, [cpsc-000, math-100]).
+softReqs(cpsc-100, []).
+canTake(Student, cpsc-100):- student(Student),
+			     (hasTaken(Student, math-100);isTaking(Student, math-100)),
+			     (hasTaken(Student, cpsc-000);isTaking(Student, cpsc-000)).
+
+allReqs(math-100, [cpsc-100]).
+hardReqs(math-100, [cpsc-100]).
+softReqs(math-100, []).
+canTake(Student, math-100):- student(Student),
+			     (hasTaken(Student, cpsc-100);isTaking(Student, cpsc-100)).
+allReqs(cpsc-000, [math-100]).
+hardReqs(cpsc-000, [math-100]).
+softReqs(cpsc-000, []).
+canTake(Student, cpsc-000):- student(Student),
+			     (hasTaken(Student, math-100);isTaking(Student, math-100)).
+
+allReqs(cpsc-700, [math-700]).
+softReqs(cpsc-700, []).
+canTake(Student, cpsc-700):- student(Student),
+			     (hasTaken(Student, math-700);isTaking(Student, math-700)).
+
+allReqs(cpsc-710, [cpsc-700]).
+softReqs(cpsc-710, []).
+canTake(Student, cpsc-710):- student(Student),
+			     (hasTaken(Student, cpsc-700);isTaking(Student, cspc-700)).
+
+allReqs(cpsc-800, [cpsc-800]).
+softReqs(cpsc-800, []).
+canTake(Student, cpsc-800):- student(Student),
+			     (hasTaken(Student, cpsc-800);isTaking(Student, cspc-800)).
+
+allReqs(cpsc-820, [cpsc-810]).
+softReqs(cpsc-820, []).
+canTake(Student, cpsc-820):- student(Student),
+			     (hasTaken(Student, cpsc-810);isTaking(Student, cspc-810)).
+
+allReqs(cpsc-810, [cpsc-820]).
+softReqs(cpsc-810, []).
+canTake(Student, cpsc-810):- student(Student),
+			     (hasTaken(Student, cpsc-820);isTaking(Student, cspc-820)).
+-----------------------------------------------------------------------------------------
+Stop adding here.
+For test cases, add the code listed under: Code to Add
+
+canTake testcases:
+
+Test 1) Student qualifies for no requirements:
+Code to run:
+canTake(steven, math-100).
+Should return false.
+
+Test 2) Student meets hard requirement, but not soft.
+Code to run:
+canTake(steven, cpsc-600).
+Code to add:
+hasTaken(steven, cpsc-120). %To see if hasTaken works as expected in the hard check.
+isTaking(steven, math-121). %To see if isTaking works as expected in the hard check.
+Should return false since no soft requirements are met.
+
+Test 3) Student meets soft requirements, but not hard.
+Code to run:
+canTake(steven, cpsc-600).
+Code to add:
+hasTaken(steven, stat-210). %To see if hasTaken works as expected in the soft check.
+isTaking(steven, stat-220). %To see if isTaking works as expected in the soft check.
+Should return false since no hard requirements are met.
+
+Test 4) Student meets both hard and soft requirements for a course.
+Code to run:
+canTake(steven, cpsc-600).
+Code to add:
+hasTaken(steven, stat-210). %To see if hasTaken works as expected in the soft check.
+isTaking(steven, stat-220). %To see if isTaking works as expected in the soft check.
+hasTaken(steven, cpsc-120). %To see if hasTaken works as expected in the hard check.
+isTaking(steven, math-121). %To see if isTaking works as expected in the hard check.
+Should return true since all requirements are met. When traceing, expect Y=2.
+
+Test 5) Student meets only one hard requirement for a course with only hard requirements.
+Code to run:
+canTake(steven, cpsc-462).
+Code to add:
+hasTaken(steven, cpsc-250).
+Should return false since only one requirement is met.
+
+Test 6) Student meets all hard requirements for a course with only hard requirements.
+Code to run:
+canTake(steven, cpsc-462).
+Code to add:
+hasTaken(steven, cpsc-250).
+isTaking(steven, math-131).
+Should return true.
+
+Test 7) Student meets some soft requirements for a course with only soft requirements.
+Code to run:
+canTake(steven, cpsc-610).
+Code to add:
+hasTaken(steven, math-121).
+Should return false since at least 2 requirements are nessecary. When traceing, expect Y=1.
+
+Test 8) Student meets min soft requirements for a course with only soft requirements.
+Code to run:
+canTake(steven, cpsc-610).
+Code to add:
+hasTaken(steven, math-121).
+isTaking(steven, stat-210).
+Should return true. When tracing, expect Y=2.
+
+is-required / check-requirement / deep-check-requirement test cases
+
+Test 1) Course 1 requires Course 2
+Code to run:
+check-requirement(cpsc-170, cpsc-120).
+Expect to return true.
+
+Test 2) Course 1 doesn't require Course 2
+Code to run:
+check-requirement(cpsc-120, cpsc-120).
+Expect to return false.
+
+Test 3) Course 1 requires a course which requires Course 2.
+Code to run:
+check-requirement(cpsc-250, cpsc-120).
+Expect to return true.
+
+Test 4) Course 1 requires no courses which require Course 2.
+Code to run:
+check-requirement(cpsc-250, cpsc-450).
+Expect to return false.
+
+impossible-requirement test cases
+
+Case 1) There is an impossible requirement
+Code to run:
+impossible-requirement(cpsc-100, math-100).
+Expect to return false.
+
+Case 2) There is no impossible requirement
+Code to run:
+impossible-requirement(cpsc-170, cpsc-120).
+Expect to return true.
+
+Case 3) There is a nested impossible requirement.
+Code to run:
+impossible-requirement(cpsc-100, cpsc-000).
+Expect to return false.
+
+Case 4) There are no nested impossible requirements.
+Code to run:
+impossible-requirement(cpsc-250, cpsc-170).
+Expect to return true.
+
+find-existence testcases.
+
+Case 1) Try to find the requirements of a course which doesn't exist.
+Code to run:
+allReqs(cs-1, X).
+Expect to return false.
+
+Case 2) Try to see if an existant course exists.
+Code to run:
+find-existence(cpsc-250).
+Expect to return true.
+
+Case 3) Try to see if a non-existant course exists.
+Code to run:
+find-existence(cpsc-900).
+Expect to return false.
+
+check-non-existent-reqs testcases.
+
+Case 1) A course has only existing requirements.
+Code to run:
+check-non-existent-reqs(cpsc-170).
+Expect to return true since there are only existing requirements.
+
+Case 2) A course has a non-existant requirement.
+Code to run: check-non-existent-reqs(cpsc-700).
+Expect to return false.
+
+Case 3) A course has no requirements.
+Code to run:
+check-non-existent-reqs(cpsc-120).
+Expect to return true since it is vacuously true.
+
+Case 4) A course has a nested non-existent requirement.
+Code to run:
+check-non-existent-reqs(cpsc-710).
+Expect to return false.
+
+Case 5) A course doesn't exist.
+Code to run: check-non-existent-reqs(cpsc-900).
+Expect to return false.
+
+taken-pre-reqs testcases.
+
+Case 1) Student has taken no required courses for a course.
+Code to run:
+taken-pre-reqs(steven, cpsc-170).
+Expect to return false.
+
+Case 2) Student has taken required courses for a course, but not the course required by the required course.
+Code to run:
+taken-pre-reqs(steven, cpsc-250).
+Code to add:
+hasTaken(steven, cpsc-170).
+Expect to return false.
+
+Case 3) Student has taken required courses for a course, and required courses for those courses.
+Code to run:
+taken-pre-reqs(steven, cpsc-250).
+Code to add:
+hasTaken(steven, cpsc-120).
+hasTaken(steven, cpsc-170).
+Expect to return true.
+
+Case 4) The student exists and is trying to take a course which has no pre-reqs
+Code to run:
+taken-pre-reqs(steven, cpsc-120).
+Expect to return true.
+
+valid-soft-reqs testcases.
+
+Case 1) A course has 3 courses listed and requires 3 courses.
+Code to run:
+valid-soft-reqs(cpsc-610).
+Expect to return false since the number of courses matches the number required.
+
+Case 2) A course has 3 courses listed and requires 4 courses.
+Code to run:
+valid-soft-reqs(math-610)
+Expect to return false since the number of courses is lower than the number required.
+
+Case 3) A course has 2 courses listed and requires 0 courses.
+Code to run:
+valid-soft-reqs(bio-100).
+Expect to return false since there are technically no requirements.
+
+Case 4) A course has 2 courses listed and requires 1 course.
+Code to run:
+valid-soft-reqs(cpsc-170).
+Expect to return true.
+
+Case 5) A course has no soft requirements.
+Code to run:
+valid-soft-reqs(cpsc-250).
+Expect to return true.
+
+find-redundancy testcases
+
+Case 1) A course has no requirements.
+Code to run:
+find-redundancy(cpsc-120).
+Expect to return true
+
+Case 2) A course has non-redundant requirements.
+Code to run: find-redundancy(cpsc-170).
+Expect to return true.
+
+Case 3) A course has a redundant requirement.
+Code to run:
+find-redundancy(cpsc-100).
+Expect to return false since cpsc-000 requires math-100.
+
+Note: This does not find nested redundancies.

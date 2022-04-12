@@ -1,0 +1,1598 @@
+Senior Standing, SENR, 0
+Envioronmental Science Major Declared, ENVS-DEC, 0
+Accounting Instructor Permission 405, ACSI-PERM-405, 0
+Accounting Instructor Permission 406, ACSI-PERM-406, 0
+Accounting Instructor Permission 407, ACSI-PERM-407, 0
+Accounting Instructor Permission 416, ACSI-PERM-416, 0
+Accounting Instructor Permission 495, ACSI-PERM-495, 0
+Accounting Instructor Permission 496, ACSI-PERM-496, 0
+Accounting Instructor Permission 497, ACSI-PERM-497, 0
+Anthropology Instructor Permission 212, ANTH-PERM-212, 0
+Anthropology Instructor Permission 310, ANTH-PERM-310, 0
+Anthropology Instructor Permission 380, ANTH-PERM-380, 0
+Art Instructor Permission 241, ART-PERM-241, 0
+Art Instructor Permission 261, ART-PERM-261, 0
+Art Instructor Permission 291, ART-PERM-291, 0
+Art Instructor Permission 341, ART-PERM-341, 0
+Art Instructor Permission 391, ART-PERM-391, 0
+Art History Instructor Permission 343, ARTH-PERM-343, 0
+Art History Instructor Permission 348, ARTH-PERM-348, 0
+Art History Instructor Permission 353, ARTH-PERM-353, 0
+Art History Instructor Permission 388, ARTH-PERM-388, 0
+Accounting and Risk Management, ACSI-201, 1
+Theory of Interest, ACSI-301, 1
+Accounting Independent Study and Research 1, ACSI-405, 0.5, ACSI-PERM-405
+Accounting Independent Study and Research 2, ACSI-406, 1, ACSI-PERM-406
+Accounting Independent Study and Research 3, ACSI-407, 0.5, ACSI-PERM-407
+Accounting Internship, ACSI-416, 1, ACSI-PERM-416
+Accounting Honors Project 1, ACSI-495, 0.5, ACSI-PERM-495
+Accounting Honors Project 2, ACSI-496, 1, ACSI-PERM-496
+Accounting Honors Project 3, ACSI-497, 0.5, ACSI-PERM-497
+New Student Advisor, ADV-101, 0
+Intro to Cultural Anthropology, ANTH-101, 1
+Anthropology of Global Health, ANTH-203, 1
+Food and Culture, ANTH-212, 1, ANTH-101; INQ-260-AN, ANTH-PERM-212; 1
+Introduction to Archaeology & Lab, ANTH-218, 1
+Race and Human Evolution, ANTH-240, 1
+Selected Topics Anthropology, ANTH-261, 1
+Ethnography, ANTH-310, 1, ANTH-101, INQ-260-AN; ENST-105, ANTH-PERM-310; 1
+Basic Linguistics, ANTH-320, 1
+Topics in Anthropology, ANTH-361, 1
+Creating Community Change, ANTH-380, 1, ANTH-101, INQ-260-AN; ENST-105, ANTH-PERM-380; 1
+Drawing 1, ART-111, 1
+Painting 1, ART-121, 1
+Photography 1, ART-131, 1
+Basic Design, ART-151, 1
+Ceramics 1, ART-171, 1
+Art Intensive Learning 1, ART-177-IL, 1
+Sculpture 1, ART-181, 1
+Art Special Topics 1, ART-191, 1
+Drawing 2, ART-211, 1, ART-111
+Painting 2, ART-221, 1, ART-121
+Photography 2, ART-231, 1, ART-131
+Printmaking: Etch & Relief Met, ART-241, 1; ART-111, ART-151, ART-PERM-241; 1
+Graphic Design 1, ART-261, 1; ART-111, ART-151, ART-PERM-261; 1
+Ceramics 2, ART-271, 1, ART-171
+Art Intensive Learning, ART-277-IL, 1
+Sculpture 2, ART-281, 1, ART-181
+Art Special Topics 2, ART-291, 1, ART-PERM-291
+Drawing 3, ART-311, 1, ART-211
+Painting 3, ART-321, 1, ART-221
+Photography 3, ART-331, 1, ART-231
+Printmaking: Silkscreen/Planographic, ART-341, 1; ART-111, ART-151, ART-PERM-341; 1
+Graphic Design 2, ART-361, 1, ART-261
+Ceramics 3, ART-371, 1, ART-271
+Sculpture 3, ART-381, 1, ART-281
+Art Special Topics 3, ART-391, 1, ART-PERM-391
+Drawing Portfolio, ART-411, 0.5, ART-311, ART-211, ART-111
+Painting Portfolio, ART-421, 0.5, ART-321, ART-221, ART-121
+Photography Portfolio, ART-431, 0.5, ART-331, ART-231, ART-131
+Printmaking Portfolio, ART-441, 0.5, ART-341, ART-241; ART-111, ART-151; 1
+Graphic Design Portfolio, ART-461, 0.5, ART-361, ART-261; ART-111, ART-151; 1
+Ceramics Portfolio, ART-471, 0.5, ART-371, ART-271, ART-171
+Sculpture Portfolio, ART-481, 0.5, ART-381, ART-281, ART-181
+Art Culture & Society 1, ARTH-150, 1
+Art Culture & Society 2, ARTH-151, 1
+Art History Intensive Learning 1, ARTH-177-IL, 1
+Intro to Archaeology & Lab, ARTH-218, 1
+Ancient Egyptian Art & Arch, ARTH-220, 1
+Archaeology of Death in Ancient Egypt, ARTH-222, 1
+The Encyclopedia Museum, ARTH-224, 1
+Medieval Art, ARTH-236, 1
+Italian Renaissance Art, ARTH-246, 1
+Art Global Pre-Modern World, ARTH-250-HI, 1
+Baroque: Popes Kings & Busin, ARTH-256, 1
+From Courtly Art Through Rev, ARTH-266, 1
+The Arts of the United States, ARTH-276, 1
+Art History Intensive Learning 2, ARTH-277-IL, 1
+Modern Art and Architecture, ARTH-286, 1
+Art History Special Topics 1, ARTH-291, 1
+Global Cont Art & Architecture, ARTH-296, 1
+Early Netherlandish Painting, ARTH-343, 1; ARTH-150, ARTH-PERM-343; 1
+Leonardo Michelangelo & Raphael, ARTH-348, 1; ARTH-150, ARTH-PERM-348; 1
+Dutch Golden Age Rembrandt & Vermeer, ARTH-353, 1; ARTH-150, ARTH-PERM-353; 1
+Impressionism & Post Impressionism, ARTH-388, 1; ARTH-151, ARTH-PERM-388; 1
+Art History Special Topics 2, ARTH-391, 1
+Art History Independent Study & Research 1, ARTH-405, 0.5
+Art History Independent Study & Research 2, ARTH-407, 0.5
+Art History Research Seminar, ARTH-456, 1
+Human Biology & Lab, BIOL-106, 1
+Exploring Biology, BIOL-110, 1
+Biology Intensive Learning 1, BIOL-177-IL, 1
+Exploring Diverisity in Biology, BIOL-180, 1
+Exploring Unity in Biology, BIOL-190, 1
+General Ecology & Lab, BIOL-205, 1, BIOL-180, BIOL-190; BIOL-110, ENVS-DEC; 1
+Cell Biology & Lab, BIOL-210, 1, BIOL-110, BIOL-190; BIOL-180, CHEM-221; 1
+History of Life, BIOL-225, 1, BIOL-110, BIOL-180, BIOL-190
+Human Anatomy & Physiology 1 & Lab, BIOL-230, 1; BIOL-106, BIOL-190, BIOL-210; 1
+General Microbiology & Lab, BIOL-235, 1, BIOL-180, BIOL-190; BIOL-110, ENVS-DEC; 1
+Algea and Fungi & Lab, BIOL-240, 1, BIOL-110, BIOL-180, BIOL-190
+Topics in Biology 1, BIOL-245, 1, BIOL-180, BIOL-190; BIOL-110, ENVS-DEC; 1
+Biology Special Topics 1 & Lab, BIOL-246, 1, BIOL-110, BIOL-180, BIOL-190
+Human Anatomy & Physiology 2 & Lab, BIOL-260, 1, BIOL-230
+Plant Diversity & Lab, BIOL-265, 1, BIOL-180, BIOL-190; BIOL-110, ENVS-DEC; 1
+Invertebrate Biology & Lab, BIOL-270, 1, BIOL-110, BIOL-180, BIOL-190
+Vertebrate Biology & Lab, BIOL-275, 1, BIOL-180, BIOL-190; BIOL-110, ENVS-DEC; 1
+Biology Intensive Learning 2, BIOL-277-IL, 1
+Animal Biology, BIOL-280, 1, BIOL-110, BIOL-180, BIOL-190
+Parasitism, BIOL-290, 1, BIOL-110, BIOL-180, BIOL-190
+Biology 200 Courses, BIOL-300-A, 0; BIOL-205, BIOL-210, BIOL-225, BIOL-230, BIOL-235, BIOL-240, BIOL-245, BIOL-246, BIOL-260, BIOL-265, BIOL-270, BIOL-275, BIOL-277-IL, BIOL-280, BIOL-290; 1
+Aquatic Chem Reqs, BIOL-300-B, 0; CHEM-112, CHEM-113, CHEM-118; 1
+Aquatic Inq or Hnrs Reqs, BIOL-300-C, 0; INQ-240, HNRS-240; 1
+Aquatic Ecology & Lab, BIOL-300, 1, BIOL-300-A, BIOL-300-B, BIOL-300-C, MATH-115
+Principles of Physiology & Lab, BIOL-305, 1, BIOL-300-A, BIOL-300-C, MATH-115; CHEM-112, CHEM-118; 1
+Comparative Animal Physiology, BIOL-310, 1, BIOL-300-A, INQ-240, MATH-115; CHEM-112, CHEM-118; 1
+Genetics & Lab, BIOL-315, 1, BIOL-300-A, BIOL-300-B, BIOL-300-C, MATH-115
+Community Ecology & Lab, BIOL-330, 1, BIOL-300-A, BIOL-300-B, BIOL-300-C, MATH-115
+Biogeography and Systematics, BIOL-335, 1, BIOL-300-A, BIOL-300-C, MATH-115; CHEM-112, CHEM-118; 1
+Animal Behavior, BIOL-340, 1, BIOL-300-A, BIOL-300-B, BIOL-300-C, MATH-115
+Biology Special Topics 2, BIOL-345, 1, BIOL-300-A, BIOL-300-B, BIOL-300-C, MATH-115
+Biology Special Topics 3 & Lab, BIOL-346, 1, BIOL-300-A, BIOL-300-B, BIOL-300-C, MATH-115
+Plant Anatomy and Physiology & Lab, BIOL-365, 1, BIOL-210, BIOL-300-B, BIOL-300-C, MATH-115
+Immunology, BIOL-370, 1, BIOL-210, BIOL-300-B, BIOL-300-C, MATH-115
+Advanced Genetics & Lab, BIOL-380, 1, BIOL-315, BIOL-300-B, BIOL-300-C, MATH-115
+Molecular Biology & Lab, BIOL-400, 1, BIOL-315, BIOL-300-B, BIOL-300-C, MATH-115
+Genomics, BIOL-410, 1, BIOL-315, BIOL-300-B, BIOL-300-C, MATH-115
+Evolution, BIOL-415, 1, BIOL-315, BIOL-300-B, BIOL-300-C, MATH-115
+Developmental Biology & Lab, BIOL-420, 1, BIOL-210, BIOL-300-B, BIOL-300-C, MATH-115
+Biology Capstone Research Experience, BIOL-480, 1, SENR
+Sophomore Standing, SOPH, 0
+Business Administration Permission 218, BUAD-PERM-218, 0
+Business Administration Permission 325, BUAD-PERM-325, 0
+Business Administration Permission 345, BUAD-PERM-345, 0
+Business Administration Permission 363, BUAD-PERM-363, 0
+Business Administration Permission 438, BUAD-PERM-438, 0
+Criminal Justice Permission 290, CJUS-PERM-290, 0
+Criminal Justice Permission 231, CJUS-PERM-231, 0
+Criminal Justice Permission 240, CJUS-PERM-240, 0
+Criminal Justice Permission 325, CJUS-PERM-325, 0
+Criminal Justice Permission 326, CJUS-PERM-326, 0
+Communications Permission 301, COMM-PERM-301, 0
+Communications Permission 311, COMM-PERM-311, 0
+Business Connections, BUAD-110, 1
+Personal Finance, BUAD-142, 1
+Business Administration Intensive Learning 1, BUAD-177-IL, 1
+Accounting and Risk Management, BUAD-201, 1
+Accounting for Decision Making, BUAD-205, 1
+Entrepreneurship, BUAD-210, 1; BUAD-205, BUAD-215; 1
+Introduction to Global Management, BUAD-211, 1
+Information Systems, BUAD-218, 1, MATH-111; BUAD-205, BUAD-215, BUAD-PERM-218; 1
+Legal & Labor Foundations, BUAD-227, 1
+Marketing Business Reqs, BUAD-233-A, 0; BUAD-110, BUAD-205, BUAD-215; 1
+Marketing Management, BUAD-233, 1, BUAD-233-A; ECON-121, ECON-122; 1
+Fundamentals of Accounting, BUAD-235, 1, BUAD-205
+Employment Law, BUAD-237, 1
+Investments, BUAD-242, 1, ECON-121, ECON-122; BUAD-201, BUAD-205; 1
+Business INQ Honors Reqs, BUAD-200-A, 0; INQ-240, HNRS-240; 1
+Business Analytics, BUAD-248, 1, BUAD-218, BUAD-200-A, MATH-111; BUAD-205, BUAD-215; 1
+Organizational Behavior & Management, BUAD-254, 1
+Topics in Business Administration 1, BUAD-260, 1
+Foundations of Leadership, BUAD-264, 1
+Human Resource Management, BUAD-274, 1
+Business Administration Intensive Learning 2, BUAD-277-IL, 1
+Intermediate Accounting 1, BUAD-315, 1, BUAD-235
+Student Managed Fund, BUAD-322, 0.5, ECON-122; BUAD-205, BUAD-215; 1
+Training Development & Perform Management, BUAD-324, 1, BUAD-274
+Intermediate Accounting 2, BUAD-325, 1; BUAD-315, BUAD-PERM-325; 1
+App Development in Business, BUAD-328, 1, BUAD-218
+Global Marketing, BUAD-333, 1, BUAD-233
+Compensation & Benefits, BUAD-334, 1, BUAD-274; BUAD-218; 0
+Cost Accounting, BUAD-335, 1, BUAD-218; BUAD-205, BUAD-215; 1
+E-Business, BUAD-338, 1, BUAD-218
+Corporate Finance, BUAD-342, 1, ECON-121, ECON-122, BUAD-218
+Buyer Behavior, BUAD-343, 1, BUAD-233
+Recruitment and Selection, BUAD-344, 1, BUAD-274
+Income Taxation, BUAD-345, 1; BUAD-205, BUAD-215, BUAD-PERM-345; 1
+Production & Operations Management, BUAD-348, 1, BUAD-110, MATH-111; INQ-240, HNRS-240; 1
+Fixed Income & Derivative Sec, BUAD-352, 1, BUAD-242, BUAD-342
+Sales & Sales Management, BUAD-353, 1, BUAD-233
+Promotion Management, BUAD-363, 1; BUAD-233, BUAD-PERM-363; 1
+Team Dynamics, BUAD-364, 1; BUAD-254, PSYC-382; 1
+Decision Sup & Intelligent Systems, BUAD-368, 1, BUAD-218; INQ-240, HNRS-240; 1
+Negotiations, BUAD-374, 1; BUAD-254, PSYC-382; 1
+Fowler Public Policy Seminar 1, BUAD-395, 1
+Fowler Public Policy Semicar 2, BUAD-396, 0.5
+Auditing, BUAD-415, 1, BUAD-315
+Advanced Accounting, BUAD-425, 1, BUAD-315
+Marketing Research, BUAD-433, 1, BUAD-200-A, BUAD-233; BUAD-218, COMM-350; 1
+Systems Analysis & Design, BUAD-438, 1, BUAD-218, BUAD-PERM-438
+Finance Capstone, BUAD-442, 1, BUAD-242, BUAD-342, ECON-232
+Advanced Leadership, BUAD-464, 1, BUAD-264; BUAD-364, BUAD-374; 1
+Marketing Capstone, BUAD-493, 1, BUAD-343, BUAD-433
+Business Policy & Lab, BUAD-499, 1, BUAD-227, BUAD-233, BUAD-248, BUAD-254, BUAD-342, BUAD-348
+Business Administration Major Elective, BUAD-MAJ, 1
+General Chemistry 1 & Lab, CHEM-111, 1
+General Chemistry 2 & Lab, CHEM-112, 1; CHEM-111, CHEM-117; 1
+General Chemistry Adv Prin & Appl 1 & Lab, CHEM-117, 1
+General Chemistry Adv Prin & Appl 2 & Lab, CHEM-118, 1; CHEM-111, CHEM-117; 1
+Organic Chemistry 1 & Lab, CHEM-221, 1; CHEM-112, CHEM-118; 1
+Organic Chemistry 2 & Lab, CHEM-222, 1, CHEM-221
+Quantitative Chemical Analysis, CHEM-255, 0.5; CHEM-112, CHEM-118; 1
+Descript Inorganic Chemistry & Lab, CHEM-260, 1; CHEM-112, CHEM-118; 1
+Environmental Chemistry, CHEM-270, 1; CHEM-112, CHEM-118; 1
+Chemistry Intensive Learning 1, CHEM-277-IL, 1
+Special Topics in Chemistry 1, CHEM-299, 1
+Physical Chemistry 1 & Lab, CHEM-331, 1, CHEM-222, MATH-122, CHEM-255; PHYS-102, PHYS-103, PHYS-104, PHYS-190, PHYS-201, PHYS-202, PHYS-203, PHYS-250, PHYS-270, PHYS-299, PHYS-310, PHYS-330, PHYS-350, PHYS-370, PHYS-390, PHYS-430, PHYS-450, PHYS-470, PHYS-490, PHYS-499, PHYS-1; 2
+Physical Chemistry 2 & Lab, CHEM-332, 1, CHEM-331, CHEM-255
+Pharmaceutical Chemistry, CHEM-340, 1, CHEM-222
+Biochemistry 1 & Lab, CHEM-341, 1, CHEM-222
+Biochemistry 2 & Lab, CHEM-342, 1, CHEM-341
+Instrumental Analysis & Lab, CHEM-350, 1, CHEM-222, CHEM-255
+Special Topics in Chemistry 2, CHEM-399, 1
+Advanced Organic Chemistry, CHEM-420, 1, CHEM-222
+Advanced Inorganic Chemistry, CHEM-460, 1, CHEM-222
+Special Topics in Chemistry 3, CHEM-499, 1
+Intro to Chemistry with Lab, CHEM-1, 1
+Elementary Chinese 1, CHIN-101, 1
+Elementary Chinese 2, CHIN-102, 1, CHIN-101
+Intermediate Chinese 1, CHIN-201, 1, CHIN-102
+Intermediate Chinese 2, CHIN-202, 1, CHIN-201
+Advanced Studies in Chinese, CHIN-306, 1, CHIN-202
+Res Methods in Public Affairs, CJUS-209, 1, SOPH; POLI-111, POLI-112, ENST-105, CJUS-PERM-209; 1
+Criminal Justice, CJUS-211, 1
+Criminal Law, CJUS-213, 1
+The Judicial Process, CJUS-214, 1
+Criminal Justice Forensics, CJUS-215, 1, CJUS-211
+Criminal Procedure, CJUS-216, 1, CJUS-211
+Juvenile Justice, CJUS-231, 1; CJUS-209, CJUS-211, CJUS-213, CJUS-214, CJUS-215, CJUS-216, CJUS-250, CJUS-261, CJUS-PERM-231; 1
+Inequality in Criminal Justice 1, CJUS-240, 1, SOCI-101, CJUS-211; INQ-260-SO, CJUS-PERM-240; 1
+Inequality in Criminal Justice 2, CJUS-250, 1
+Selected Topics in Criminal Justice 1, CJUS-261, 1
+Criminal Justice Intensive Learning 1, CJUS-277-IL, 1
+Comparative Law Enforcement, CJUS-325, 1; CJUS-211, CJUS-PERM-325; 1
+Comparative Corrections, CJUS-326, 1; CJUS-211, CJUS-PERM-326; 1
+Criminal Justice Intensive Learning 2, CJUS-377-IL, 1
+Seminar in Criminal Justice, CJUS-401, 1, SOCI-334, CJUS-209; POLI-201, POLI-270; 1
+Language and Literature, CLST-231, 1
+Math Concepts in Elementary Education, CLST-241, 1
+Introduction to Communication Studies, COMM-101, 1
+Social Media Practicum, COMM-116, 0.25
+Communications Intensive Learning 1, COMM-177-IL, 1
+Mass Communication, COMM-202, 1, COMM-101
+Public Speaking, COMM-220, 1; INQ-110, INQ-120, HNRS-105, HNRS-110, HNRS-120; 1
+Communication Theory, COMM-250, 1, COMM-101
+Rhetorical Traditions, COMM-254, 1, COMM-101
+Interpersonal Communication, COMM-260, 1, COMM-101
+Communications Special Topics 1, COMM-301, 1; COMM-250, COMM-PERM-301; 1
+Video Field Production, COMM-311, 1; COMM-250, COMM-PERM-311; 1
+Professional Communication, COMM-317, 1, COMM-250
+Journalism, COMM-319, 1, COMM-250
+Small Group Communication, COMM-330, 1, COMM-250
+Communications Research Methods, COMM-350, 1, COMM-250
+Rhetorical Theory & Criticism, COMM-354, 1, COMM-250, COMM-254
+St in Intercultural Communication, COMM-360, 1, COMM-250
+Communications Senior Seminar, COMM-411, 1, COMM-350, COMM-354
+Fundamentals of Computer Science 1, CPSC-120, 1
+Fundamentals of Computer Science 2 & Lab, CPSC-170, 1, CPSC-120
+Data Structures and Algorithms & Lab, CPSC-250, 1, CPSC-170
+Software Engineering and Project Design, CPSC-270, 1, CPSC-250
+Topics in Applied Computing, CPSC-310, 1, CPSC-250
+Databases and Web Programming, CPSC-350, 1, CPSC-170, MATH-131
+Data Mining, CPSC-370, 1, CPSC-170
+Theory of Computation, CPSC-450, 1, CPSC-250, MATH-131
+Senior Project, CPSC-470, 1, CPSC-350, CPSC-370
+Topics in Applied Computing, CPSC-310, 1, CPSC-250
+System Administration, CPSC-361, 1, CPSC-170
+Numerical Analysis, CPSC-342, 1, MATH-201, MATH-122, CPSC-120
+Video Game Development, CPSC-362, 1, CPSC-250
+Robotics, CPSC-363, 1, CPSC-250
+Architecture of Operating Systems, CPSC-461, 1, CPSC-250
+Analysis of Algorithms, CPSC-462, 1, CPSC-250, MATH-131
+Principles of Programming Languages, CPSC-463, 1, CPSC-270
+Networks, CPSC-464, 1, CPSC-250
+Machine Learning, CPSC-465, 1, CPSC-170, MATH-121, MATH-131, STAT-210
+Computer Science Introduction, CPSC-1, 1
+Data Science Permission 405, DATA-PERM-405, 0
+Data Science Permission 406, DATA-PERM-406, 0
+Data Science Permission 407, DATA-PERM-407, 0
+Data Science Permission 416, DATA-PERM-416, 0
+Data Science Permission 495, DATA-PERM-495, 0
+Data Science Permission 496, DATA-PERM-496, 0
+Data Science Permission 497, DATA-PERM-497, 0
+Economics Permission 461, ECON-PERM-461, 0
+Education Permission 371, EDUC-PERM-371, 0
+English Permission 321, ENGL-PERM-321, 0
+Creative Writing Social Media Practicum, CRWR-116, 0.25
+Creative Writing-Fiction, CRWR-215, 1
+Creative Writing-Poetry, CRWR-216, 1
+Reading As a Writer, CRWR-230, 1
+Advanced Creative Writing-Fiction, CRWR-315, 1, CRWR-215
+Advanced Creative Writing-Poetry, CRWR-316, 1, CRWR-216
+Advanced Creative Writing-Special Topics, CRWR-317, 1; CRWR-215, CRWR-216; 1
+Forms and Genres, CRWR-330, 1, CRWR-230; CRWR-215, CRWR-216; 1
+Creative Writing Senior Seminar, CRWR-412, 1, CRWR-215, CRWR-216, CRWR-230, CRWR-330; CRWR-315, CRWR-316, CRWR-317; 1
+Exploring Data, DATA-170, 1, CPSC-120
+Data Visualizations, DATA-248, 1; INQ-240, HNRS-240, STAT-210; 1
+Databases for Data Science, DATA-350, 1, DATA-170
+Data Science Independent Study and Research 1, DATA-405, 0.5, DATA-PERM-405
+Data Science Independent Study and Research 2, DATA-406, 1, DATA-PERM-406
+Data Science Independent Study and Research 3, DATA-407, 0.5, DATA-PERM-407
+Data Science Internship, DATA-416, 1, DATA-PERM-416
+Practicum in Data Science 1, DATA-480, 1, DATA-248, DATA-350
+Practicum in Data Science 2, DATA-490, 1, DATA-480
+Data Science Honors Project 1, DATA-495, 0.5, DATA-PERM-495
+Data Science Honors Project 2, DATA-496, 1, DATA-PERM-496
+Data Science Honors Project 3, DATA-497, 0.5, DATA-PERM-497
+Spreadsheets, DGTL-111, 0.5, SOPH
+Intro to Database Applications, DGTL-112, 0.5, SOPH
+Intro to Coding, DGTL-121, 0.5, SOPH
+Using Statistical Software SPSS, DGTL-131, 0.5, SOPH
+Using Statistical Software R, DGTL-132, 0.5, SOPH
+Using Statistical Software SAS, DGTL-131, 0.5, SOPH
+Digital Photography, DGTL-141, 0.5, SOPH
+Video Production, DGTL-142, 0.5, SOPH
+Introduction to Economics, ECON-120, 1
+Principles Micro, ECON-121, 1
+Principles Macro, ECON-122, 1
+Economics Intensive Learning 1, ECON-177-IL, 1
+Health Economics, ECON-227, 1; ECON-120, ECON-121; 1
+Money and Banking, ECON-232, 1, ECON-121, ECON-122
+Economics Public Sector & Its Finance, ECON-242, 1, ECON-121, ECON-122
+International Trade & Finance, ECON-247, 1, ECON-121, ECON-122
+Econmics Data Visualization, ECON-248, 1; INQ-240, HNRS-240, STAT-210; 1
+The Federal Challenge, ECON-252, 1, ECON-121, ECON-122
+Competition Monopoly & Public Policy, ECON-257, 1; ECON-120, ECON-121; 1
+Topics in Economics 1, ECON-261, 1
+Labor Economics, ECON-267, 1; ECON-120, ECON-121; 1
+Economics Intensive Learning 2, ECON-277-IL, 1
+Economics and the Environment, ECON-287, 1; ECON-120, ECON-121; 1
+Economics of Globalization & Development, ECON-312-HI, 1
+Intermediate Theory Microeconomics, ECON-321, 1, ECON-121; MATH-111, MATH-112, MATH-118, MATH-121; 1
+Intermediate Theory Macroeconomics, ECON-322, 1, ECON-122; MATH-111, MATH-118, MATH-121; 1
+History of Economic Thought, ECON-347, 1, ECON-121, ECON-122
+INQ HNRS Req, ECON-348-A, 0; INQ-240, HNRS-240; 1
+Introduction to Econometrics, ECON-348, 1, ECON-348-A; ECON-321, ECON-322; 1
+Fowler Public Policy Seminar 1, ECON-395, 1
+Fowler Public Policy Seminar 2, ECON-396, 0.5
+Economics Seminar, ECON-461, 1; SENR, ECON-PERM-461; 1
+Principles of Education, EDUC-210, 1
+Education Technology, EDUC-240, 1
+Teaching Learning & Cognition, EDUC-250, 1
+Selected Topics in Education 1, EDUC-260, 1
+Selected Topics in Education 2, EDUC-261, 0.5
+Education Intensive Learning, EDUC-277-IL, 1
+The Inclusive Classroom, EDUC-300, 1; EDUC-210, EDUC-240, EDUC-250, EDUC-260, EDUC-261, EDUC-277-IL; 1
+Ped & Curr Prin PK-8 Sci, EDUC-321, 1; EDUC-210, EDUC-240, EDUC-250, EDUC-260, EDUC-261, EDUC-277-IL; 1
+Ped & Curr Prin PK-8 Read & LA, EDUC-331, 1; EDUC-210, EDUC-240, EDUC-250, EDUC-260, EDUC-261, EDUC-277-IL; 1
+Instructional Methods, EDUC-332, 1; EDUC-210, EDUC-240, EDUC-250, EDUC-260, EDUC-261, EDUC-277-IL; 1
+Ped & Curr Prin PK-8 Math, EDUC-341, 1, CLST-241
+Literacy in the Disciplines, EDUC-352, 1; EDUC-210, EDUC-240, EDUC-250, EDUC-260, EDUC-261, EDUC-277-IL; 1
+Ped & Curr Prin PK-8 Soc St, EDUC-361, 1; EDUC-210, EDUC-240, EDUC-250, EDUC-260, EDUC-261, EDUC-277-IL; 1
+Field Exp Elem Reading Instr, EDUC-371, 1, EDUC-331, EDUC-PERM-371
+Student Teaching Application, EDUC-380-A, 0
+Student Teaching 1, EDUC-380, 1, EDUC-380-A, EDUC-250; EDUC-300, EDUC-321, EDUC-331, EDUC-332, EDUC-341, EDUC-352, EDUC-361, EDUC-371; 1
+Curr Instr & Assessment Elem, EDUC-451, 1, EDUC-250; EDUC-300, EDUC-321, EDUC-331, EDUC-332, EDUC-341, EDUC-352, EDUC-361, EDUC-371, EDUC-380; 1
+Education Req, EDUC-452-A, 0; EDUC-300, EDUC-321, EDUC-331, EDUC-332, EDUC-341, EDUC-352, EDUC-361, EDUC-371, EDUC-381; 1
+Education Research and Assessment, EDUC-452, 1, EDUC-452-A; EDUC-210, EDUC-240, EDUC-250, EDUC-260, EDUC-261, EDUC-277-IL; 1
+Student Teaching Application 2 K-6, EDUC-471-A, 0
+Student Teaching Application 2 6-12, EDUC-472-A, 0
+Student Teaching Application 2 6-8, EDUC-473-A, 0
+Student Teaching Application 2 K-12, EDUC-474-A, 0
+Student Teaching 2 Grades K-6, EDUC-471, 1, EDUC-380, EDUC-471-A
+Student Teaching 2 Grades 6-12, EDUC-472, 1, EDUC-380, EDUC-472-A
+Student Teaching 2 Grades 6-8, EDUC-473, 1, EDUC-380, EDUC-473-A
+Student Teaching 2 Grades K-12, EDUC-474, 1, EDUC-380, EDUC-474-A
+English Social Media Practicum, ENGL-116, 0.25
+Foundations in Fiction, ENGL-202, 1
+Foundations in Oral Traditions, ENGL-203, 1
+Foundations in Poetry, ENGL-204, 1
+Connections Social Justice, ENGL-212, 1
+Connections Gender, ENGL-213, 1
+Connections Community, ENGL-214, 1
+English Special Topics 1, ENGL-220, 1
+Foundations of Film & Lab, ENGL-256, 1
+English Intensive Learning 1, ENGL-277-IL, 1
+Resolution Methods & Critical Perspective, ENGL-290, 1; ENGL-202, ENGL-203, ENGL-204, ENGL-212, ENGL-213, ENGL-214, ENGL-220, ENGL-256, ENGL-277-IL; 1
+Special Studies in Language & Literature, ENGL-301, 1; ENGL-202, ENGL-203, ENGL-204, ENGL-212, ENGL-213, ENGL-214, ENGL-220, ENGL-256, ENGL-277-IL, ENGL-290; 2
+Focus Author Studies, ENGL-308, 1; ENGL-202, ENGL-203, ENGL-204, ENGL-212, ENGL-213, ENGL-214, ENGL-220, ENGL-256, ENGL-277-IL, ENGL-290; 2
+Medieval Literature, ENGL-317-HI, 1
+Basic Linguistics, ENGL-320, 1
+Advanced Grammar and Style, ENGL-321, 1; INQ-110, INQ-120, HNRS-105, HNRS-110, HNRS-120, ENGL-PERM-321; 1
+Composition Theory & Practice, ENGL-322, 1; ENGL-202, ENGL-203, ENGL-204, ENGL-212, ENGL-213, ENGL-214, ENGL-220, ENGL-256, ENGL-277-IL, ENGL-290; 2
+The English Language, ENGL-323, 1; ENGL-202, ENGL-203, ENGL-204, ENGL-212, ENGL-213, ENGL-214, ENGL-220, ENGL-256, ENGL-277-IL, ENGL-290; 1
+Focus Shakespeare & Lab, ENGL-332, 1; ENGL-202, ENGL-203, ENGL-204, ENGL-212, ENGL-213, ENGL-214, ENGL-220, ENGL-256, ENGL-277-IL, ENGL-290; 2
+Genre Studies Reqs, ENGL-350-A, 0; ENGL-202, ENGL-203, ENGL-204, ENGL-212, ENGL-213, ENGL-214, ENGL-220, ENGL-256, ENGL-277-IL, ENGL-290; 1
+Focus Genre Studies, ENGL-350, 1, ENGL-350-A; ENGL-240, ENGL-250; 1
+Studies in Drama, ENGL-354, 1, ENGL-350-A; ENGL-240, ENGL-250; 1
+Focus Film Studies & Lab, ENGL-356, 1, ENGL-256
+English Intensive Learning 2, ENGL-377-IL, 1
+Sr Sem Texts and the World, ENGL-411, 1
+Engineering Permission 405, ENGS-PERM-405, 0
+Engineering Permission 406, ENGS-PERM-406, 0
+Engineering Permission 407, ENGS-PERM-407, 0
+Engineering Permission 416, ENGS-PERM-416, 0
+Engineering Permission 495, ENGS-PERM-495, 0
+Engineering Permission 496, ENGS-PERM-496, 0
+Engineering Permission 497, ENGS-PERM-497, 0
+Environment Permission 261, ENSC-PERM-261, 0
+Environment Permission 265, ENSC-PERM-265, 0
+Environment Permission 365, ENSC-PERM-365, 0
+Enviro Stud Permission 290, ENST-PERM-290, 0
+French Lang Permission 380, FREN-PERM-380, 0
+Greek Langu Permission 202, GREK-PERM-202, 0
+Greek Langu Permission 250, GREK-PERM-250, 0
+HHP Required Permission 225, HHP-PERM-225, 0
+HHP Required Permission 226, HHP-PERM-226, 0
+HHP Required Permission 230, HHP-PERM-230, 0
+HHP Required Permission 301, HHP-PERM-301, 0
+HHP Required Permission 302, HHP-PERM-302, 0
+HHP Required Permission 305, HHP-PERM-305, 0
+HHP Required Permission 313, HHP-PERM-313, 0
+HHP Required Permission 315, HHP-PERM-315, 0
+HHP Required Permission 316, HHP-PERM-316, 0
+HHP Required Permission 317, HHP-PERM-317, 0
+HHP Required Permission 325, HHP-PERM-325, 0
+HHP Required Permission 326, HHP-PERM-326, 0
+HHP Required Permission 335, HHP-PERM-335, 0
+HHP Required Permission 400, HHP-PERM-400, 0
+HHP Required Permission 402, HHP-PERM-402, 0
+HHP Required Permission 404 1, HHP-PERM-404-A, 0
+HHP Required Permission 404 2, HHP-PERM-404-B, 0
+HHP Required Permission 409, HHP-PERM-409, 0
+HHP Required Permission 410, HHP-PERM-410, 0
+Athletic Training Major Dec, ATHT-MAJOR, 0
+HHP Required Permission 415, HHP-PERM-415, 0
+HHP Required Permission 420, HHP-PERM-420, 0
+Engineering Foundations, ENGS-191, 1
+Engineering Analysis, ENGS-192, 1, ENGS-191
+Engineering Design Exploration, ENGS-200, 0.5, ENGS-192, ENGS-191
+Statics & Materials Testing & Lab, ENGS-301, 1, ENGS-192, PHYS-202
+Electronics & Robotics & Lab, ENGS-302, 1, ENGS-192, PHYS-202
+Heat & Mass Transfer & Lab, ENGS-303, 1, ENGS-192, PHYS-202
+Fluid Mechanics & Lab, ENGS-304, 1, ENGS-192, PHYS-202, PHYS-270
+Dynamics, ENGS-330, 1, ENGS-192, PHYS-202, PHYS-270
+Engineering Independent Study & Research 1, ENGS-405, 0.5, ENGS-PERM-405
+Engineering Independent Study & Research 2, ENGS-406, 1, ENGS-PERM-406
+Engineering Independent Study & Research 3, ENGS-407, 0.5, ENGS-PERM-407
+Engineering Internship, ENGS-416, 1, ENGS-PERM-416
+Design Capstone 1, ENGS-490, 1; ENGS-301, ENGS-302, ENGS-303, ENGS-304; 2
+Design Capstone 2, ENGS-491, 1, ENGS-490
+Engineering Honors Project 1, ENGS-495, 0.5, ENGS-PERM-495
+Engineering Honors Project 2, ENGS-496, 1, ENGS-PERM-496
+Engineering Honors Project 3, ENGS-497, 0.5, ENGS-PERM-497
+Engineering Science Transfer, ENGS-T, 1
+Environmental Science & Lab, ENSC-101, 1
+Conservation Science & Lab, ENSC-220, 1, ENSC-101
+Critical Zone Science & Lab, ENSC-230, 1, ENSC-101
+Environmental Special Topics 1, ENSC-261, 1; ENSC-101, ENSC-PERM-261; 1
+Environmental Special Topics 2 & Lab, ENSC-265, 1; ENSC-101, ENST-101, ENST-105, ENSC-PERM-265; 1
+Geographic Information Systems, ENSC-270, 1, ENSC-101
+Conservation Biology & Lab, ENSC-357-HI, 1
+Environmental Special Topics 3, ENSC-361, 1; ENSC-220, ENSC-230, ENSC-261, ENSC-265, ENSC-270; 1
+Environmental Special Topics 4 & Lab, ENSC-365, 1; ENSC-220, ENSC-230, ENSC-261, ENSC-265, ENSC-270, ENSC-PERM-365; 1
+Landscape Analysis in GIS, ENSC-370, 1, ENSC-270
+Global Change & Earth System, ENSC-380, 1; ENSC-101, ENSC-220, ENSC-230, ENSC-261, ENSC-265, ENSC-270, ENSC-357-HI, ENSC-361, ENSC-365, ENSC-370; 1
+Intro to Enviro & Culture, ENST-103, 1
+Intro to Enviro & Society, ENST-105, 1
+Environmental History, ENST-210, 1
+Environmental Ethics, ENST-212, 1, ENST-103
+Religion & Ecology, ENST-232, 1
+Environmental Justice, ENST-240, 1; ENSC-101, ENST-103, ENST-105; 1
+Enviro Special Topics 1, ENST-260, 1
+Enviro Intensive Learning 1, ENST-277-IL, 1
+Sustain Agr & Food Systems, ENST-290, 1; ENSC-101, ENST-103, ENST-105, ENVI-101, ENVI-103, ENVI-105, ENST-PERM-290; 1
+Climate Justice, ENST-341, 1; ENST-212, ENST-240; 1
+Food Sustainability & Justice, ENST-351, 1; ENST-212, ENST-240; 1
+Enviro Special Topics 2, ENST-360, 1; ENST-210, ENST-212, ENST-232, ENST-240, ENST-260, ENST-277-IL, ENST-290; 1
+Sex & Earth, ENST-371, 1; ENST-210, ENST-212, ENST-232, ENST-240, ENST-260, ENST-277-IL, ENST-290; 1
+Enviro Senior Practicum, ENST-430, 1, ENSC-270; ENST-210, ENST-212, ENST-232, ENST-240, ENST-260, ENST-277-IL, ENST-290; 1
+Elementary French 1, FREN-101, 1
+Elementary French 2, FREN-102, 1, FREN-101
+Elementary French Review, FREN-150, 1, FREN-101
+Intermediate French 1, FREN-201, 1
+Intermediate French 2, FREN-202, 1, FREN-201
+French Intensive Learning 1, FREN-277-IL, 1
+French Conversation, FREN-301, 1, FREN-202
+French Composition, FREN-302, 1, FREN-202
+French Oral Expression and Phonetics, FREN-303, 1, FREN-202
+French Civilization & Culture 1, FREN-311, 1, FREN-202
+French Civilization & Culture 2, FREN-312, 1, FREN-202
+Francophone Societies, FREN-315, 1, FREN-202
+Studies in French Translation, FREN-330, 1, FREN-202
+French Second Language Learning, FREN-338, 1
+Methods of Teaching French, FREN-341, 1, FREN-202
+French Intensive Learning 2, FREN-377-IL, 1
+French Special Studies, FREN-380, 1; FREN-202, FREN-PERM-380; 1
+The French Poetic Tradition, FREN-420, 1; FREN-202, FREN-380; 1
+French The Medieval World, FREN-421, 1; FREN-202, FREN-380; 1
+French The Renaissance Era, FREN-431, 1; FREN-202, FREN-380; 1
+17th & 18th Cent French Lit, FREN-441, 1; FREN-202, FREN-380; 1
+French 19th Century Lit, FREN-451, 1; FREN-202, FREN-380; 1
+French The Modern Novel & Short Story, FREN-461, 1; FREN-202, FREN-380; 1
+Adv Studies Fren Lang Lit Cult, FREN-480, 1, FREN-301
+World Geography, GEOG-110, 1
+Urban Geography, GEOG-140, 1
+Intro Gender & Women Studies, GNDR-150, 1
+Elementary Ancient Greek 1, GREK-101, 1
+Elementary Ancient Greek 2, GREK-102, 1, GREK-101
+Intermediate Ancient Greek 1, GREK-201, 1, GREK-102
+Intermediate Ancient Greek 2, GREK-202, 1; GREK-201, GREK-PERM-202; 1
+Readings in Ancient Greek, GREK-250, 1; GREK-202, GREK-PERM-250; 1
+Elementary German 1, GRMN-101, 1
+Elementary German 2, GRMN-102, 1
+Intermediate German 1, GRMN-201, 1
+Intermediate German 2, GRMN-202, 1
+German Composition & Conversation, GRMN-301, 1, GRMN-202
+German Civilization & Culture, GRMN-311, 1, GRMN-202
+Cult German Speaking Countries, GRMN-314, 1, GRMN-202
+The Post-War Germanies, GRMN-315, 1, GRMN-202
+Age of Goethe Faust, GRMN-320, 1, GRMN-202
+Survey of German Literature, GRMN-321, 1, GRMN-202
+Spec Studies Germn Lang Lit Cu, GRMN-380, 1, GRMN-202
+Tennis, HHP-101, 0.25, HHP-160
+Badminton, HHP-106, 0.25, HHP-160
+Physical Education, HHP-113, 0.25
+Yoga, HHP-114, 0.25, HHP-160
+Karate, HHP-128, 0.25, HHP-160
+Scuba Diving, HHP-130, 0.25, HHP-160
+Racquetball, HHP-136, 0.25, HHP-160
+Fencing, HHP-141, 0.25, HHP-160
+Backpacking, HHP-142, 0.25, HHP-160
+Pilates, HHP-159, 0.25, HHP-160
+Fitness for Life, HHP-160, 0.25
+Introduction to HEXS, HHP-195, 0.5
+Varsity Sport Participation, HHP-199, 0
+Motor Control & Learning, HHP-201, 1; HHP-195, HHP-221; 1
+Individual Activities, HHP-203, 0.5; HHP-195, HHP-221; 1
+Team Sports, HHP-204, 0.5; HHP-195, HHP-221; 1
+Non-Trad Games & Activi, HHP-205, 0.5; HHP-195, HHP-221; 1
+Fund Rhythms & Dance, HHP-206, 0.5; HHP-195, HHP-221; 1
+Exercise Test & Prescription & Lab, HHP-208, 0.5; HHP-195, HHP-221; 1
+Individual and Team Sport, HHP-210, 1; HHP-195, HHP-221; 1
+Prof Concepts & Leadership Dev, HHP-221, 1
+Intro to Emergency Care, HHP-223, 0.5
+Cont Issues in Sport Mgmt, HHP-225, 1; HHP-221, HHP-PERM-225; 1
+Strength & Conditioning, HHP-226, 1, HHP-201; HHP-208, HHP-PERM-226; 1
+Research Methods in HEXS, HHP-230, 1; HHP-195, HHP-PERM-230; 1
+HHP Intensive Learning 1, HHP-277-IL, 1
+Personal & Community Health, HHP-301, 1; HHP-195, HHP-221, HHP-PERM-301; 1
+Physed Mthd & Mater 1 Pk-6, HHP-302, 1, HHP-226, HHP-PERM-302; HHP-195, HHP-221; 1
+HHP 305 Reqs, HHP-305-A, 0; HHP-226, HHP-PERM-305; 1
+Adapted & Dev Physed, HHP-305, 1, HHP-305-A; HHP-195, HHP-221; 1
+Sport Marketing, HHP-313, 1; HHP-221, HHP-PERM-313; 1
+Behavioral Perspective HEXS, HHP-315, 1; HHP-195, HHP-221, HHP-PERM-315; 1
+Nutrition, HHP-316, 1; BIOL-106, BIOL-190, HHP-PERM-316; 1
+Neuromechanics & Lab, HHP-317, 1; HHP-201, HHP-PERM-317; 1
+Exercise Physiology & Lab, HHP-325, 1; HHP-208, HHP-PERM-325; 1
+Therapeutic Interventions, HHP-326, 1, HHP-201; HHP-208, HHP-PERM-326; 1
+Coordinated School Health Prgm, HHP-335, 1, HHP-221; HHP-301, HHP-PERM-335; 1
+Science of Training Athletes, HHP-400, 1, HHP-201; HHP-325, HHP-PERM-400; 1
+Special Populations, HHP-402, 1; HHP-325, HHP-PERM-402; 1
+HHP 404 Reqs, HHP-404-A, 0; HHP-195, HHP-221; 1
+Physed Mthd & Mat 6-12, HHP-404, 1, HHP-404-A; HHP-301, HHP-PERM-404; 1
+Health Ed Mthd & Mat Pk-12, HHP-409, 1, HHP-221; HHP-301, HHP-PERM-409; 1
+Physical Education Methods, HHP-410, 1, HHP-195; HHP-210, HHP-PERM-410; 1
+Adv Prin & Prac Sport Mgmt, HHP-412, 1, HHP-225
+Eval of Athletic Injuries, HHP-415, 1; BIOL-230, HHP-PERM-415, ATHT-MAJOR; 1
+Sp Topics in Health Exer Sci, HHP-420, 1, HHP-PERM-420
+History Permission 305, HIST-PERM-305, 0
+History Permission 310, HIST-PERM-310, 0
+History Permission 320, HIST-PERM-320, 0
+History Permission 325, HIST-PERM-325, 0
+History Permission 330, HIST-PERM-330, 0
+History Permission 335, HIST-PERM-335, 0
+History Permission 340, HIST-PERM-340, 0
+History Permission 350, HIST-PERM-350, 0
+History Permission 360, HIST-PERM-360, 0
+History Permission 365, HIST-PERM-365, 0
+History Permission 370, HIST-PERM-370, 0
+History Permission 375, HIST-PERM-375, 0
+History Permission 380, HIST-PERM-380, 0
+History Permission 390, HIST-PERM-390, 0
+Honors Permission 120, HNRS-PERM-120, 0
+Intr Rel Permission 209, IR-PERM-209, 0
+Intr Rel Permission 221, IR-PERM-221, 0
+Intr Rel Permission 222, IR-PERM-222, 0
+Intr Rel Permission 223, IR-PERM-223, 0
+Intr Rel Permission 224, IR-PERM-224, 0
+Intr Rel Permission 225, IR-PERM-225, 0
+Intr Rel Permission 231, IR-PERM-231, 0
+Intr Rel Permission 232, IR-PERM-232, 0
+Intr Rel Permission 233, IR-PERM-233, 0
+Intr Rel Permission 234, IR-PERM-234, 0
+Intr Rel Permission 247, IR-PERM-247, 0
+Intr Rel Permission 351, IR-PERM-351, 0
+Intr Rel Permission 352, IR-PERM-352, 0
+Intr Rel Permission 353, IR-PERM-353, 0
+Ancient World, HIST-110, 1
+Medieval World, HIST-120, 1
+Early Modern World History, HIST-130, 1
+The Modern World, HIST-140, 1
+History Intensive Learning, HIST-177-IL, 1
+United States History, HIST-200, 1
+Intro to Public History, HIST-205, 1
+Historical Archaeology, HIST-206, 1
+American Material Cult, HIST-207, 1
+Archaeology of Slavery, HIST-208, 1
+Intro to Digital Histr, HIST-209, 1
+Environmental History, HIST-210, 1
+The Origins of War, HIST-211, 1
+Ancient Greece, HIST-212, 1
+Age of Alexander the Great, HIST-213, 1
+Ancient Rome, HIST-214, 1
+Intro to Archaeology & Lab, HIST-218, 1
+Medieval England, HIST-223, 1
+The Renaissance, HIST-230, 1
+The Reformation, HIST-231, 1
+Hist of Tudor & Stuart England, HIST-233, 1
+Witch Hunts Early Mod Europe, HIST-235, 1
+Modern Russia, HIST-241, 1
+Modern Britain, HIST-243, 1
+History of Ireland, HIST-244, 1
+World War 2, HIST-245, 1
+Holocaust, HIST-246, 1
+Africa from 1850, HIST-254, 1
+South Africa, HIST-255, 1
+Black Political Thought in Africa, HIST-256, 1
+Civil War, HIST-261, 1
+US Womens History, HIST-262, 1
+Post 1945 US History, HIST-263, 1
+Amer Pres & the Presidency, HIST-264, 1
+American Military Traditions, HIST-265, 1
+Modern Amer Diplomatic History, HIST-266, 1
+The Vietnam War, HIST-268, 1
+Latin America, HIST-272, 1
+Latin American Revolutions, HIST-273, 1
+History Intensive Learning 2, HIST-277-IL, 1
+Early East Asia, HIST-281, 1
+Modern East Asia, HIST-282, 1
+East Asian History in Films, HIST-283, 1
+Modern Middle East, HIST-284, 1
+South Asia, HIST-285, 1
+History Special Studies, HIST-290, 1
+Historical Methods, HIST-300, 1, SOPH; HIST-110, HIST-120, HIST-130, HIST-140, HIST-177-IL; 1
+Issues in World History, HIST-305, 1; HIST-300, HIST-PERM-305; 1
+Issues in Ancient History, HIST-310, 1; HIST-300, HIST-PERM-310; 1
+Issues in the Middle Ages, HIST-320, 1; HIST-300, HIST-PERM-320; 1
+Issues in Renaissance & Reformation History, HIST-325, 1; HIST-300, HIST-PERM-325; 1
+Issues in Early Modern History, HIST-330, 1; HIST-300, HIST-PERM-330; 1
+Issues in British History, HIST-335, 1; HIST-300, HIST-PERM-335; 1
+Issues in Modern European History, HIST-340, 1; HIST-300, HIST-PERM-340; 1
+Issues in African History, HIST-350, 1; HIST-300, HIST-PERM-350; 1
+Issues in Early America, HIST-360, 1; HIST-300, HIST-PERM-360; 1
+Issues in 19th Century America, HIST-365, 1; HIST-300, HIST-PERM-365; 1
+Issues in Modern America, HIST-370, 1; HIST-300, HIST-PERM-370; 1
+Issues in Latin Amer & Carrbn History, HIST-375, 1; HIST-300, HIST-PERM-375; 1
+Issues in East Asia History, HIST-380, 1; HIST-300, HIST-PERM-380; 1
+Issues in Public History, HIST-390, 1; HIST-300, HIST-PERM-390; 1
+History Fowler Public Policy Seminar 1, HIST-395, 1
+History Fowler Public Policy Seminar 2, HIST-396, 0.5
+History Library Practicum, HIST-404, 1
+History Seminar, HIST-490, 1
+Honors Seminar, HNRS-110, 1
+Portfolio Seminar 1 Part 1, HNRS-111, 0.25
+Portfolio Seminar 1 Part 2, HNRS-112, 0.25
+Portfolio Seminar 2 Part 1, HNRS-113, 0.25
+Portfolio Seminar 2 Part 2, HNRS-114, 0.25
+Living an Examined Lift, HNRS-120, 1; HNRS-110, HNRS-PERM-120; 1
+Honors Statistical Reasoning, HNRS-240, 1
+Honors Mathematical Reasoning, HNRS-241, 1
+Honors Scientific Reasoning 1 Choice 1 & Lab, HNRS-250-AS, 1
+Honors Scientific Reasoning 1 Choice 2 & Lab, HNRS-250-BI, 1
+Honors Scientific Reasoning 1 Choice 3 & Lab, HNRS-250-CH, 1
+Honors Scientific Reasoning 1 Choice 4 & Lab, HNRS-250-PH, 1
+Honors Scientific Reasoning 2, HNRS-251, 1
+Honors Social Scientific Reasoning 1, HNRS-260-AN, 1
+Honors Social Scientific Reasoning 2, HNRS-260-CO, 1
+Honors Social Scientific Reasoning 3, HNRS-260-EC, 1
+Honors Social Scientific Reasoning 4, HNRS-260-ED, 1
+Honors Social Scientific Reasoning 5, HNRS-260-IR, 1
+Honors Social Scientific Reasoning 6, HNRS-260-LI, 1
+Honors Social Scientific Reasoning 7, HNRS-260-PS, 1
+Honors Social Scientific Reasoning 8, HNRS-260-PY, 1
+Honors Social Scientific Reasoning 9, HNRS-260-SO, 1
+Honors Human Heritage 1, HNRS-270, 1
+Honors Human Heritage 2, HNRS-271, 1
+Contemporary Issues, HNRS-300, 1
+Resolution Methods in Public Affairs, IR-209, 1, SOPH; POLI-111, POLI-112, ENVI-105, IR-PERM-209; 1
+Comparative Polit Sys Europe, IR-221, 1; POLI-111, IR-PERM-221; 1
+Comparative Polit Sys Asia, IR-222, 1; POLI-111, IR-PERM-222; 1
+Comparative Polit Sys Middle East, IR-223, 1; POLI-111, IR-PERM-223; 1
+Comparative Polit Sys Africa, IR-224, 1; POLI-111, IR-PERM-224; 1
+Comparative Polit Sys Latin Amer, IR-225, 1; POLI-111, IR-PERM-225; 1
+International Politics, IR-231, 1; POLI-111, IR-PERM-231; 1
+International Organizations, IR-232, 1; POLI-111, IR-PERM-232; 1
+International Law, IR-233, 1; POLI-111, IR-PERM-233; 1
+The Arab Israli Conflict, IR-234, 1; POLI-111, IR-PERM-234; 1
+Theory in Int Relations, IR-247, 1; POLI-231, IR-PERM-247; 1
+International Rel Special Topics, IR-261, 1
+International Rel Intensive Learning, IR-277-IL, 1
+Global Political Economy, IR-333, 1, POLI-231
+Environmental Public Policy, IR-351, 1; POLI-111, ENST-105, IR-PERM-351; 1
+Human Rights Policy, IR-352, 1; POLI-111, IR-PERM-352; 1
+US Foreign Policy, IR-353, 1; POLI-112, IR-PERM-353; 1
+IR SENR SEM REQ, IR-401-A, 0; POLI-209, IR-209; 1
+IR Senior Seminar, IR-401, 1, IR-401-A; POLI-247, IR-247; 1
+IR Transfer, IR-T, 1
+Int Inq & Possible Lab, INQ-110, 1
+LEL, INQ-120, 1
+INQ Intensive Learning 1, INQ-177-IL, 1
+INQ Statistical Reasoning, INQ-240, 1
+INQ Math Reas, INQ-241, 1
+INQ Sci Reas 1 Choice 1 & Lab, INQ-250-AS, 1
+INQ Sci Reas 1 Choice 2 & Lab, INQ-250-BI, 1
+INQ Sci Reas 1 Choice 3 & Lab, INQ-250-CH, 1
+INQ Sci Reas 1 Choice 4 & Lab, INQ-250-PH, 1
+INQ Sci Reas 2, INQ-251, 1
+INQ Social Sci Reas Choice 1, INQ-260-AN, 1
+INQ Social Sci Reas Choice 2, INQ-260-BU, 1
+INQ Social Sci Reas Choice 3, INQ-260-CJ, 1
+INQ Social Sci Reas Choice 4, INQ-260-CO, 1
+INQ Social Sci Reas Choice 5, INQ-260-EC, 1
+INQ Social Sci Reas Choice 6, INQ-260-ED, 1
+INQ Social Sci Reas Choice 7, INQ-260-GE, 1
+INQ Social Sci Reas Choice 8, INQ-260-IR, 1
+INQ Social Sci Reas Choice 9, INQ-260-LI, 1
+INQ Social Sci Reas Choice 10, INQ-260-PS, 1
+INQ Social Sci Reas Choice 11, INQ-260-PY, 1
+INQ Social Sci Reas Choice 12, INQ-260-SO, 1
+INQ HH1, INQ-270, 1
+INQ HH2, INQ-271, 1
+INQ Intensive Learning 2, INQ-277-IL, 1
+INQ CI, INQ-300, 1
+INQ Intensive Learning 3, INQ-377-IL, 1
+Mathematics Permission 331, MATH-PERM-331, 0
+Mathematics Permission 388, MATH-PERM-388, 0
+Neuroscience Permission 339, NEUR-PERM-339, 0
+Peace & Just Permission 301, PEAC-PERM-301, 0
+Philosophy Permission 390, PHIL-PERM-390, 0
+Philosophy Permission 391, PHIL-PERM-391, 0
+Pub Health Permission 301, PHST-PERM-301, 0
+Elementary Italian 1, ITAL-101, 1
+Elementary Italian 2, ITAL-102, 1
+Intermediate Italian 1, ITAL-201, 1
+Intermediate Italian 2, ITAL-202, 1, ITAL-102
+Advanced Studies in Italian, ITAL-306, 1, ITAL-202
+Elementary Japanese 1, JAPN-101, 1
+Elementary Japanese 2, JAPN-102, 1, JAPN-101
+Intermediate Japanese 1, JAPN-201, 1
+Intermediate Japanese 2, JAPN-202, 1, JAPN-201
+Advanced Studies in Japanese, JAPN-306, 1, JAPN-202
+Language Tutorial, LANG-106, 1
+Intermediate Language, LANG-201, 1
+English as a 2nd Language 1, LANG-221, 1
+Academic Writing, LANG-222, 1
+Second Language Learning, LANG-338, 1
+Methods of Teach Foreign Lang, LANG-341, 1
+Elementary Latin 1, LATN-101, 1
+Elementary Latin 2, LATN-102, 1
+Intermediate Latin 1, LATN-201, 1
+Intermediate Laten 2, LATN-202, 1, LATN-201
+Basic Linguistics, LING-320, 1
+Math Models Managment Sci, MATH-111, 1
+Quantitative Biology, MATH-115, 1; INQ-240, HNRS-240; 1
+Calculus 1 & Recitation, MATH-121, 1
+Calculus 2, MATH-122, 1; MATH-121, MATH-119; 1
+Discrete Mathematics, MATH-131, 1; MATH-121, CPSC-120, CPSC-150; 1
+Linear Algebra, MATH-201, 1, MATH-122
+Combinatorics and Graph Theory, MATH-268, 1, MATH-131
+Foundations of Geometry, MATH-278, 1, MATH-131
+Special Topics in Mathematics 1, MATH-288, 1, MATH-131
+Operations Research, MATH-311, 1, MATH-201
+Vector Calculus, MATH-321, 1, MATH-122
+Differential Equations, MATH-331, 1; MATH-201, MATH-PERM-331; 1
+Applied Differential Equations, MATH-332, 1, MATH-331
+Math Numerical Analysis, MATH-342, 1, CPSC-120, MATH-122, MATH-201
+Complex Analysis, MATH-352, 1, MATH-122
+Abstract Algebra, MATH-361, 1, MATH-131, MATH-201
+Topology, MATH-371, 1, MATH-131, MATH-201
+Real Analysis, MATH-381, 1, MATH-122, MATH-131, MATH-201
+Topics in Mathematics, MATH-388, 1, MATH-131; MATH-201, MATH-PERM-388; 1
+Math Seminar, MATH-491, 1; MATH-361, MATH-371, MATH-381; 2
+Applied Voice, MUSA-101, 0.25
+Applied Piano, MUSA-102, 0.25
+Applied Music Studies, MUSA-103, 0.25
+Applied Music Composition, MUSA-104, 0.25
+Conducting, MUSA-105, 0.25
+Applied Voice 2, MUSA-201, 0.25
+Applied Piano 2, MUSA-202, 0.25
+Applied Instrumental, MUSA-203, 0.25
+Applied Music Composition, MUSA-204, 0.25
+Applied Voice 3, MUSA-301, 0.25
+Applied Piano 3, MUSA-302, 0.25
+Applied Organ, MUSA-303, 0.25
+Applied Music Composition 2, MUSA-304, 0.25
+Applied Voice 4, MUSA-401, 0.25
+Applied Piano 4, MUSA-402, 0.25
+Applied Organ 2, MUSA-403, 0.25
+Applied Music Composition 3, MUSA-404, 0.25
+Music Minor Recital, MUSA-411, 0.25
+Music Major Recital, MUSA-413, 0.25
+Class Voice, MUSC-105, 0.25
+Class Piano, MUSC-106, 0.25
+Studio Ensemble, MUSC-107, 0.25
+Mixed Ensemble, MUSC-108, 0.25
+Oriana Singers, MUSC-109, 0.25
+Preparation for Music, MUSC-110, 0.5
+Concert Choir, MUSC-111, 0.25
+Wind Ensemble, MUSC-112, 0.25
+Jazz Ensemble, MUSC-113, 0.25
+Collegium Musicum, MUSC-121, 0.25
+Fundamentals of Music, MUSC-150, 1
+History of Western Music, MUSC-153-HI, 1
+Music Special Topics 1, MUSC-199, 0.25
+Music in Culture, MUSC-240, 1
+Theory and Composition 1 & Lab, MUSC-251, 1, MUSC-150
+Theory and Composition 2 & Lab, MUSC-252, 1, MUSC-251
+Western Music to Age of Revolu, MUSC-273, 1
+Western Music After Beethoven, MUSC-274, 1
+Music Special Topics 2, MUSC-299, 0.5
+Techniques in Arranging, MUSC-325, 1, MUSC-252
+Music Education in Elementary School, MUSC-339, 1
+Popular Music, MUSC-375, 1
+Music Special Topics 3, MUSC-399, 1
+Music Senior Project 1, MUSC-420, 1
+Music Senior Project 2, MUSC-421, 1
+Music Senior Project 3, MUSC-422, 0.5
+Piano Profciency 1, MUSC-PP, 1
+Piano Profciency 2, MUSC-PROF, 0
+Principles of Neuroscience, NEUR-330, 1; PSYC-101, BIOL-120, BIOL-190; 1
+Neuropsychology, NEUR-335, 1; NEUR-330, PSYC-330; 1
+Topics in Neuroscience, NEUR-339, 1; NEUR-330, NEUR-PERM-339; 1
+Neuroscience Research Seminar, NEUR-430, 1; NEUR-330, PSYC-330, NEUR-PERM-430; 1
+Intro to Peace & Justice Studies, PEAC-201, 1
+Seminal Figures and Issues, PEAC-301, 1; PEAC-201, PEAC-PERM-301; 1
+Introduction to Logic, PHIL-101, 1
+Contemporary Issues, PHIL-111, 1
+Philosophy & Film, PHIL-131, 1
+Buddhism, PHIL-141, 1
+Philosophy Intensive Learning 1, PHIL-177-IL, 1
+Philosophy Intro Topics, PHIL-191, 1
+Symbolic Logic, PHIL-201, 1
+Environmental Ethics, PHIL-212, 1
+Philosophy of Religion, PHIL-221, 1
+Business Ethics, PHIL-222, 1
+Ethics and Medicine, PHIL-223, 1
+Relig & Phil of China, PHIL-241, 1
+Relig & Phil of India, PHIL-243, 1
+Early Western Phil, PHIL-251, 1
+Medieval Phil, PHIL-253, 1
+Modern Western Phil, PHIL-255, 1
+American Phil, PHIL-265, 1
+Power Lang Politics, PHIL-266, 1
+Asian Phil, PHIL-275-HI, 1
+Philosophy Intensive Learning 2, PHIL-277-IL, 1
+Selected Topics in Philosophy, PHIL-290, 1
+History of Phil, PHIL-390, 1; PHIL-101, PHIL-131, PHIL-141, PHIL-177-IL, PHIL-191, PHIL-201, PHIL-212, PHIL-221, PHIL-222, PHIL-223, PHIL-241, PHIL-243, PHIL-251, PHIL-253, PHIL-255, PHIL-265, PHIL-266, PHIL-275-HI, PHIL-277-IL, PHIL-391, PHIL-PERM-390; 1
+Contemporary Phil, PHIL-391, 1; PHIL-101, PHIL-131, PHIL-141, PHIL-177-IL, PHIL-191, PHIL-201, PHIL-212, PHIL-221, PHIL-222, PHIL-223, PHIL-241, PHIL-243, PHIL-251, PHIL-253, PHIL-255, PHIL-265, PHIL-266, PHIL-275-HI, PHIL-277-IL, PHIL-390, PHIL-PERM-391; 1
+Hlth & Soc Intro to Public Health, PHST-201, 1
+Global Health, PHST-202, 1
+Public Health Intensive Learning, PHST-277-IL, 1
+Intro to Epidemiology, PHST-301, 1, PHST-201; PHST-202, PHST-PERM-301; 1
+Social Determinants of Health, PHST-302, 1; PHST-201, PHST-202; 1
+Environmental Public Health, PHST-331, 1; SOCI-201, SOCI-215, SOCI-223, SOCI-224, SOCI-226, SOCI-229, SOCI-235, SOCI-236, SOCI-237, SOCI-238, SOCI-240, SOCI-241, SOCI-260, SOCI-261, SOCI-277-IL, PHST-201, ENST-105; 1
+Community Health Seminar, PHST-420, 1
+Public Health Intensive Project, PHST-477, 1
+Intro Physics for Life Science & Lab, PHYS-102, 1
+Fundamental Physics & Lab, PHYS-103, 1
+Fundemantal Physics 2 & Lab, PHYS-104, 1; PHYS-102, PHYS-103, PHYS-201; 1
+Phys & Engineering Colloquium, PHYS-190, 0.5
+Newtonian Mechanics & Lab, PHYS-201, 1; MATH-121, MATH-118; 1
+Electricity & Magnetism & Lab, PHYS-202, 1, PHYS-201; MATH-122, MATH-119; 1
+Atomic & Molecular Physics & Lab, PHYS-203, 1, PHYS-202
+Intro to Nanomaterials, PHYS-250, 1, PHYS-201
+Math Methods for Physics, PHYS-270, 1, PHYS-201, PHYS-202, MATH-122
+Physics Intro Special Topics, PHYS-299, 1, PHYS-201; MATH-118, MATH-121; 1
+Experimental Analysis, PHYS-310, 1, PHYS-203
+Theoretical Mechanics, PHYS-330, 1, PHYS-203
+Electromagnetic Theory, PHYS-350, 1, PHYS-203
+Thermal Physics, PHYS-370, 1, PHYS-203
+Quantum Mechanics, PHYS-390, 1, PHYS-203
+Biological Physics, PHYS-410, 1, PHYS-203
+Astrophysics, PHYS-430, 1, PHYS-203
+Physics of Materials, PHYS-450, 1, PHYS-203
+Optics and Spectroscopy, PHYS-470, 1, PHYS-203
+Physics Capstone, PHYS-490, 1
+Physics Special Topics 2, PHYS-499, 1
+Intro to Physics & Lab, PHYS-1, 1
+Political Permission 201, POLI-PERM-201, 0
+Political Permission 202, POLI-PERM-202, 0
+Political Permission 205, POLI-PERM-205, 0
+Political Permission 221, POLI-PERM-221, 0
+Political Permission 222, POLI-PERM-222, 0
+Political Permission 223, POLI-PERM-223, 0
+Political Permission 224, POLI-PERM-224, 0
+Political Permission 225, POLI-PERM-225, 0
+Political Permission 231, POLI-PERM-231, 0
+Political Permission 233, POLI-PERM-233, 0
+Political Permission 234, POLI-PERM-234, 0
+Political Permission 244, POLI-PERM-244, 0
+Political Permission 245, POLI-PERM-245, 0
+Political Permission 246, POLI-PERM-246, 0
+Political Permission 247, POLI-PERM-247, 0
+Political Permission 250, POLI-PERM-250, 0
+Political Permission 270, POLI-PERM-270, 0
+Political Permission 333, POLI-PERM-333, 0
+Political Permission 351, POLI-PERM-351, 0
+Political Permission 352, POLI-PERM-352, 0
+Political Permission 353, POLI-PERM-353, 0
+Psycholog Permission 319, PSYC-PERM-319, 0
+Psycholog Permission 336, PSYC-PERM-336, 0
+Psycholog Permission 355, PSYC-PERM-355, 0
+Psycholog Permission 359, PSYC-PERM-359, 0
+Psycholog Permission 382, PSYC-PERM-382, 0
+Psycholog Permission 383, PSYC-PERM-383, 0
+Psycholog Permission 384, PSYC-PERM-384, 0
+Psycholog Permission 390, PSYC-PERM-390, 0
+Psycholog Permission 402, PSYC-PERM-402, 0
+Psycholog Permission 430, PSYC-PERM-430, 0
+Relgion S Permission 415, RELG-PERM-415, 0
+Relgion S Permission 491, RELG-PERM-491, 0
+Sociology Permission 238, SOCI-PERM-238, 0
+Sociology Permission 240, SOCI-PERM-240, 0
+Sociology Permission 320, SOCI-PERM-320, 0
+Sociology Permission 326, SOCI-PERM-326, 0
+Sociology Permission 329, SOCI-PERM-329, 0
+Sociology Permission 331, SOCI-PERM-331, 0
+Sociology Permission 335, SOCI-PERM-335, 0
+Sociology Permission 337, SOCI-PERM-337, 0
+Sociology Permission 338, SOCI-PERM-338, 0
+Sociology Permission 351, SOCI-PERM-351, 0
+Sociology Permission 352, SOCI-PERM-352, 0
+Sociology Permission 360, SOCI-PERM-360, 0
+Sociology Permission 361, SOCI-PERM-361, 0
+Spanish Permission 312, SPAN-PERM-312, 0
+Spanish Permission 315, SPAN-PERM-315, 0
+Spanish Permission 417, SPAN-PERM-417, 0
+Theatre Permission 103, THEA-PERM-103, 0
+Theatre Permission 170, THEA-PERM-170, 0
+Theatre Permission 199, THEA-PERM-199, 0
+Theatre Permission 212, THEA-PERM-212, 0
+Theatre Permission 225, THEA-PERM-225, 0
+Theatre Permission 275, THEA-PERM-275, 0
+Theatre Permission 303, THEA-PERM-303, 0
+Theatre Permission 325, THEA-PERM-325, 0
+Theatre Permission 375, THEA-PERM-375, 0
+RELG Major or Minor, RELG-MAJ-MIN, 0
+Issues in Global Politics, POLI-111, 1
+Issues in American Politics, POLI-112, 1
+Political Intensive Learning 1, POLI-177-IL, 1
+State and Local Government, POLI-201, 1; POLI-112, ENST-105, POLI-PERM-201; 1
+Voting and Elections, POLI-202, 1; POLI-112, ENST-105, POLI-PERM-202; 1
+The Presidency and Congress, POLI-205, 1; POLI-112, ENST-105, POLI-PERM-205; 1
+POLI Resolution Methods in Public Affairs, POLI-209, 1, SOPH; POLI-111, POLI-112, ENVI-105, IR-PERM-209; 1
+The Judicial Process, POLI-214, 1
+Comparative Polit Sys Europe, POLI-221, 1; POLI-111, POLI-PERM-221; 1
+Comparative Polit Sys Asia, POLI-222, 1; POLI-111, POLI-PERM-222; 1
+Comparative Polit Sys Middle East, POLI-223, 1; POLI-111, POLI-PERM-223; 1
+Comparative Polit Sys Africa, POLI-224, 1; POLI-111, POLI-PERM-224; 1
+Comparative Polit Sys Latin Amer, POLI-225, 1; POLI-111, POLI-PERM-225; 1
+International Politics, POLI-231, 1; POLI-111, POLI-PERM-231; 1
+International Organizations, POLI-232, 1, POLI-111
+International Law, POLI-233, 1; POLI-111, POLI-PERM-233; 1
+The Arab-Israili Conflict, POLI-234, 1; POLI-111, POLI-PERM-234; 1
+Liberalism and Conservatism, POLI-244, 1; POLI-111, POLI-112, POLI-PERM-244; 1
+Ethics and Public Policy, POLI-245, 1; POLI-111, POLI-122, POLI-PERM-245; 1
+Justice Revolution and Society, POLI-246, 1; POLI-111, POLI-122, POLI-PERM-246; 1
+Theory in IR, POLI-247, 1; POLI-231, IR-231, POLI-PERM-247; 1
+American Policy Making, POLI-250, 1; POLI-111, POLI-112, POLI-PERM-250; 1
+US Health Policy, POLI-256, 1; POLI-112, PHST-201; 1
+Selected Topics in Pol Sci 1, POLI-260, 0.5
+Selected Topics in Pol Sci 2, POLI-261, 1
+Selected Topics in Pol Sci 3, POLI-262, 0.5
+Public Administration, POLI-270, 1; POLI-112, POLI-PERM-270; 1
+Political Intensive Learning, POLI-277-IL, 1
+American Constitutional Law, POLI-311, 1, POLI-112; POLI-201, POLI-202, POLI-205, POLI-270; 1
+Civil Liberties, POLI-312, 1, POLI-112; POLI-201, POLI-202, POLI-205, POLI-270; 1
+Global Political Economy, POLI-333, 1; POLI-231, IR-231, POLI-PERM-333; 1
+Environmental Public Policy, POLI-351, 1; POLI-111, ENST-105, POLI-PERM-351; 1
+Human Rights Policy, POLI-352, 1; POLI-111, POLI-PERM-352; 1
+Foreign Policy US, POLI-353, 1; POLI-112, POLI-PERM-353; 1
+Political Public Policy Seminar 1, POLI-395, 1
+Political Public Policy Seminar 2, POLI-396, 0.5
+Seminar in Political Science, POLI-401, 1
+Intro to Psyc, PSYC-101, 1
+Pursuing your Purpose, PSYC-110, 0.5
+Research Methods in Psychology, PSYC-202, 1; PSYC-101, INQ-260-PY, HNRS-260-PY; 1
+Quantitative Mthds Pysch & Lab, PSYC-204, 1; PSYC-101, INQ-260-PY, HNRS-260-PY; 1
+Developmental Psychology, PSYC-221, 1; PSYC-101, INQ-260-PY, HNRS-260-PY; 1
+Biological Psychology, PSYC-231, 1; PSYC-101, INQ-260-PY, HNRS-260-PY; 1
+Cognitive Psychology, PSYC-241, 1; PSYC-101, INQ-260-PY, HNRS-260-PY; 1
+Social Psychology, PSYC-251, 1; PSYC-101, INQ-260-PY, HNRS-260-PY; 1
+Psychology Intensive Learning 1, PSYC-277-IL, 1
+Special Topics in Psychology 1, PSYC-319, 1; PSYC-101, INQ-260-PY, HNRS-260-PY PSYC-PERM-319; 1
+Child Development, PSYC-321, 1; PSYC-101, INQ-260-PY, HNRS-260-PY; 1
+Adolescent Development, PSYC-322, 1; PSYC-101, INQ-260-PY, HNRS-260-PY; 1
+Adult Development & Aging, PSYC-323, 1; PSYC-101, INQ-260-PY, HNRS-260-PY; 1
+Topics in Developmental Psyc, PSYC-329, 1; PSYC-101, INQ-260-PY, HNRS-260-PY; 1
+Principles of Neuroscience, PSYC-330, 1; PSYC-101, BIOL-120, BIOL-190; 1
+Drugs and Behavior, PSYC-332, 1; PSYC-101, INQ-260-PY, HNRS-260-PY, PSYC-330; 1
+Neuropsychology, PSYC-335, 1; NEUR-330, PSYC-330; 1
+Sensation & Perception, PSYC-336, 1; PSYC-101, INQ-260-PY, HNRS-260-PY, NEUR-330, PSYC-PERM-336; 1
+Topics in Biological Psyc, PSYC-339, 1; PSYC-101, INQ-260-PY, HNRS-260-PY; 1
+Human Memory, PSYC-341, 1; PSYC-101, INQ-260-PY, HNRS-260-PY; 1
+Learning, PSYC-342, 1; PSYC-101, INQ-260-PY, HNRS-260-PY; 1
+Judgement & Decision Making, PSYC-343, 1; PSYC-101, INQ-260-PY, HNRS-260-PY; 1
+Creative Thinking, PSYC-344, 1; PSYC-101, INQ-260-PY, HNRS-260-PY; 1
+Topics in Cognitive Psych, PSYC-349, 1; PSYC-101, INQ-260-PY, HNRS-260-PY; 1
+Personality, PSYC-351, 1; PSYC-101, INQ-260-PY, HNRS-260-PY; 1
+Evolutionary Psych, PSYC-354, 1; PSYC-101, INQ-260-PY, HNRS-260-PY; 1
+Cross-Cultr Pysch, PSYC-355, 1; PSYC-101, INQ-260-PY, HNRS-260-PY, PSYC-PERM-355; 1
+Topics in Soci Persn, PSYC-359, 1; PSYC-101, INQ-260-PY, HNRS-260-PY, PSYC-PERM-359; 1
+Psychology Intensive Learning 2, PSYC-377-IL, 1
+Abnormal Pysch, PSYC-381, 1; PSYC-101, INQ-260-PY, HNRS-260-PY; 1
+Industrial-Organi Psyc, PSYC-382, 1; PSYC-101, INQ-260-PY, HNRS-260-PY, PSYC-PERM-382; 1
+Counseling & Psyc Appro & Lab, PSYC-383, 1; PSYC-251, PSYC-381, PSYC-PERM-383; 1
+Clinical Psyc, PSYC-384, 1; PSYC-251, PSYC-381, PSYC-PERM-384; 1
+PSYC-390 Req, PSYC-390-A, 0; PSYC-101, PSYC-110, PSYC-202, PSYC-204, PSYC-221, PSYC-231, PSYC-241, PSYC-251, PSYC-277-IL, PSYC-319, PSYC-321, PSYC-322, PSYC-323, PSYC-329, PSYC-330, PSYC-332, PSYC-335, PSYC-336, PSYC-339, PSYC-341, PSYC-342, PSYC-343, PSYC-344, PSYC-349, PSYC-351, PSYC-354, PSYC-355, PSYC-359, PSYC-377-IL, PSYC-381, PSYC-382, PSYC-383, PSYC-384; 3
+History of Psych, PSYC-390, 1; PSYC-390-A, PSYC-PERM-390; 1
+Pursuing Research Publication, PSYC-402, 0.5, PSYC-PERM-402
+PSYC-410 Req, PSYC-410-A, 0; PSYC-319, PSYC-321, PSYC-322, PSYC-323, PSYC-329, PSYC-330, PSYC-332, PSYC-335, PSYC-336, PSYC-339, PSYC-341, PSYC-342, PSYC-343, PSYC-344, PSYC-349, PSYC-351, PSYC-354, PSYC-355, PSYC-359, PSYC-377-IL, PSYC-381, PSYC-382, PSYC-383, PSYC-384, PSYC-390; 1
+Psyc Research Seminar, PSYC-410, 1, PSYC-204, PSYC-343; PSYC-202, PSYC-205; 1
+Tests and Measurements, PSYC-415, 1, PSYC-202, PSYC-204, PSYC-410-A
+Neuroscience Research Seminar, PSYC-430, 1; NEUR-330, PSYC-330, PSYC-PERM-430; 1
+Editing Grammar & Style, PUBL-225, 1
+Intro to Christian Theo, RELG-102, 1
+The Jewish Trad, RELG-103, 1
+Living Religions of the World, RELG-130, 1
+Religion at the Movies, RELG-140, 1
+Buddhism, RELG-141, 1
+Intro to Religious Trads, RELG-170, 1
+Religion Intensive Learning 1, RELH-177-IL, 1
+Isrl Patr Proph Prin Priest, RELG-201, 1
+New Testament Christianites, RELG-202, 1
+Islam, RELG-204, 1
+Native American Relg, RELG-207, 1
+Early Christian Confl Comm Lif, RELG-210, 1
+Hellen Cults Magic & Mys Relg, RELG-211, 1
+The Reformation, RELG-212, 1
+Pauline Christianity, RELG-216, 1
+Top in Israelite & Jewish Relg, RELG-217, 1
+Christian Ethics, RELG-220, 1
+Relgious Life Young Adults, RELG-225, 1
+Religion Philsophy & Science, RELG-231, 1
+Religion and Ecology, RELG-232, 1
+Religion & Lit, RELG-235, 1
+Relg & Phil of China, RELG-241, 1
+Relg & Phil of India, RELG-243, 1
+Japanese Relg, RELG-245, 1
+Holocaust, RELG-246, 1
+New Relg in America, RELG-250, 1
+Exploration Relg Trads, RELG-270, 1
+Religion Intensive Learning 2, RELG-277-IL, 1
+Augustine & His Legacy, RELG-282, 1
+Luther & His Legacy, RELG-284, 1
+Legacy of Modern Theol, RELG-286, 1
+Methods & Theories, RELG-301, 1
+Systematic Theology, RELG-317, 1
+Contemporary Christian Studies, RELG-340, 1
+Issues in Relg Trads, RELG-370, 1
+RELG Internship, RELG-415, 0.5, RELG-PERM-415
+Religion Seminar, RELG-491, 1; RELG-MAJ-MIN, RELG-PERM-491; 1
+Career Explorations, ROA-111, 0.5
+Pursuing Effective Leadership, ROA-112, 0.5
+Self Culture & Civic Res, ROA-125, 0.5
+Digital Storytelling 1, ROA-218, 0.5
+Digital Storytelling 2, ROA-219, 0.5, ROA-218
+Thry & Pract Res Clin Setting, ROA-300, 1
+Elementary Russian 1, RUSS-101, 1
+Elementary Russian 2, RUSS-102, 1
+Intermediate Russian 1, RUSS-201, 1, RUSS-102
+Intermediate Russian 2, RUSS-202, 1
+Advanced Studies in Russian, RUSS-306, 1, RUSS-202
+Russian Transfer, RUSS-T, 1
+Intro to Socio, SOCI-101, 1
+Social Inequality, SOCI-201, 1; SOCI-101, ENST-105, INQ-260-SO, HNRS-260-SO; 1
+Social Movements, SOCI-215, 1
+Ethics and Medicine, SOCI-223, 1
+Race and Ethnicity, SOCI-224, 1
+Intimate Marital Fam Relatship, SOCI-226, 1
+Soci of Sex & Gender, SOCI-229, 1
+Social Psyc, SOCI-235, 1
+Popular Culture, SOCI-236, 1
+Deviant Behavior, SOCI-237, 1
+Juvenile Delinquency, SOCI-238, 1; SOCI-101, INQ-260-SO, HNRS-260-SO, SOCI-PERM-238; 1
+Inequality in Criminal Justice, SOCI-240, 1; SOCI-101, CJUS-211, INQ-260-SO, SOCI-PERM-240; 1
+Intro to Social Welfare, SOCI-241, 1
+Selected Topics in Soci 1, SOCI-260, 0.5
+Selected Topics in Soci 2, SOCI-261, 1
+Sociology Intensive Learning 1, SOCI-277-IL, 1
+Political Sociology, SOCI-315, 1; SOCI-201, SOCI-215, SOCI-223, SOCI-224, SOCI-226, SOCI-229, SOCI-235, SOCI-236, SOCI-237, SOCI-238, SOCI-240, SOCI-241, SOCI-260, SOCI-261, SOCI-277-IL; 1
+Education and Society, SOCI-320, 1; SOCI-101, SOCI-201, SOCI-215, SOCI-223, SOCI-224, SOCI-226, SOCI-229, SOCI-235, SOCI-236, SOCI-237, SOCI-238, SOCI-240, SOCI-241, SOCI-260, SOCI-261, SOCI-277-IL, SOCI-PERM-320; 1
+Medical Sociology, SOCI-325, 1; SOCI-201, SOCI-215, SOCI-223, SOCI-224, SOCI-226, SOCI-229, SOCI-235, SOCI-236, SOCI-237, SOCI-238, SOCI-240, SOCI-241, SOCI-260, SOCI-261, SOCI-277-IL; 1
+Comparitive Corrections, SOCI-326, 1; SOCI-201, SOCI-215, SOCI-223, SOCI-224, SOCI-226, SOCI-229, SOCI-235, SOCI-236, SOCI-237, SOCI-238, SOCI-240, SOCI-241, SOCI-260, SOCI-261, SOCI-277-IL, CJUS-211, SOCI-PERM-326; 1
+Global Perspectives on Family, SOCI-329, 1; SOCI-201, SOCI-215, SOCI-223, SOCI-224, SOCI-226, SOCI-229, SOCI-235, SOCI-236, SOCI-237, SOCI-238, SOCI-240, SOCI-241, SOCI-260, SOCI-261, SOCI-277-IL, ANTH-101, SOCI-PERM-329; 1
+Environmental Public Health, SOCI-331, 1; SOCI-201, SOCI-215, SOCI-223, SOCI-224, SOCI-226, SOCI-229, SOCI-235, SOCI-236, SOCI-237, SOCI-238, SOCI-240, SOCI-241, SOCI-260, SOCI-261, SOCI-277-IL, PHST-201, ENST-105, SOCI-PERM-331; 1
+SOCI-334 Req, SOCI-334-A, 0; SOCI-101, CJUS-211, INQ-260-SO; 1
+Criminology, SOCI-334, 1, SOCI-334-A; SOCI-201, SOCI-215, SOCI-223, SOCI-224, SOCI-226, SOCI-229, SOCI-235, SOCI-236, SOCI-237, SOCI-238, SOCI-240, SOCI-241, SOCI-260, SOCI-261, SOCI-277-IL; 1
+Global Pop Problems, SOCI-335, 1; SOCI-201, SOCI-215, SOCI-223, SOCI-224, SOCI-226, SOCI-229, SOCI-235, SOCI-236, SOCI-237, SOCI-238, SOCI-240, SOCI-241, SOCI-260, SOCI-261, SOCI-277-IL, ENST-105, SOCI-PERM-335; 1
+Environmental Sociology, SOCI-337, 1; SOCI-201, SOCI-215, SOCI-223, SOCI-224, SOCI-226, SOCI-229, SOCI-235, SOCI-236, SOCI-237, SOCI-238, SOCI-240, SOCI-241, SOCI-260, SOCI-261, SOCI-277-IL, ENVI-105, SOCI-PERM-337; 1
+Womens Live Global, SOCI-338, 1; SOCI-201, SOCI-215, SOCI-223, SOCI-224, SOCI-226, SOCI-229, SOCI-235, SOCI-236, SOCI-237, SOCI-238, SOCI-240, SOCI-241, SOCI-260, SOCI-261, SOCI-277-IL, SOCI-PERM-338; 1
+Crowds Panics & Disasters, SOCI-340, 1; SOCI-201, SOCI-215, SOCI-223, SOCI-224, SOCI-226, SOCI-229, SOCI-235, SOCI-236, SOCI-237, SOCI-238, SOCI-240, SOCI-241, SOCI-260, SOCI-261, SOCI-277-IL, ENST-105; 1
+Social Theory, SOCI-350, 1, SOCI-201
+Qualitative Methods & Analysis 1, SOCI-351, 1; SOCI-101, ANTH-101, ENST-105, SOCI-PERM-351; 1
+Qualitative Methods & Analysis 2, SOCI-352, 1; SOCI-101, ENST-105, SOCI-PERM-352; 1
+Selected Topics in Sociology 1, SOCI-360, 1; SOCI-201, SOCI-215, SOCI-223, SOCI-224, SOCI-226, SOCI-229, SOCI-235, SOCI-236, SOCI-237, SOCI-238, SOCI-240, SOCI-241, SOCI-260, SOCI-261, SOCI-277-IL, SOCI-PERM-360; 1
+Selected Topics in Sociology 2, SOCI-361, 1; SOCI-201, SOCI-215, SOCI-223, SOCI-224, SOCI-226, SOCI-229, SOCI-235, SOCI-236, SOCI-237, SOCI-238, SOCI-240, SOCI-241, SOCI-260, SOCI-261, SOCI-277-IL, SOCI-PERM-361; 1
+The Info Society, SOCI-365, 1
+Field Research & Org Analysis, SOCI-375, 1
+Sociology Intensive Learning 2, SOCI-377-IL, 1
+Sociology Fowler Seminar 1, SOCI-395, 1
+Sociology Fowler Seminar 2, SOCI-396, 0.5
+Sociology Seminar, SOCI-454, 1, SOCI-351, SOCI-352, SOCI-350
+Elementary Spanish 1, SPAN-101, 1
+Elementary Spanish 2, SPAN-102, 1
+Elementary Spanish Review, SPAN-150, 1
+Intermediate Spanish 1, SPAN-201, 1
+Intermediate Spanish 2, SPAN-202, 1
+Spanish Intensive Learning 1, SPAN-277-IL, 1
+Spanish Composition, SPAN-303, 1, SPAN-202
+Spanish Conversation, SPAN-304, 1, SPAN-202
+Civilization & Culture Spain, SPAN-311, 1; SPAN-303, SPAN-304; 1
+Civilization & Culture Span Amer, SPAN-312, 1; SPAN-303, SPAN-304, SPAN-PERM-312; 1
+Spanish Contemporary Issues, SPAN-315, 1; SPAN-303, SPAN-304, SPAN-PERM-315; 1
+Intro to Lit Spain, SPAN-320, 1, SPAN-303, SPAN-304
+Intro to Lit Span Amer, SPAN-323, 1, SPAN-303, SPAN-304
+Commercial Spanish, SPAN-330, 1, SPAN-303, SPAN-304
+Spanish for Healthcare, SPAN-332, 1, SPAN-303, SPAN-304
+Hispanic Linguistics, SPAN-334, 1, SPAN-303, SPAN-304
+Spanish Phonetics & Phonology, SPAN-335, 1, SPAN-303, SPAN-304
+Spanish Second Language Learning, SPAN-338, 1
+Area Studies in Latin Amer, SPAN-340, 1, SPAN-303, SPAN-304
+Methods of Teaching Spanish, SPAN-341, 1
+Spanish Intensive Learning 2, SPAN-377-IL, 1
+Spec Topics Hisp Cult, SPAN-380, 1, SPAN-303, SPAN-304
+Structure of Modern Spanish, SPAN-402, 1, SPAN-303, SPAN-304
+Translation & Interpretation, SPAN-403, 1, SPAN-303, SPAN-304
+Golden Age Hisp Lit, SPAN-410, 1, SPAN-320, SPAN-323
+Spanish International Practicum, SPAN-417, 1, SPAN-PERM-417; SPAN-303, SPAN-304, SPAN-311, SPAN-312, SPAN-315, SPAN-320, SPAN-323, SPAN-330, SPAN-332, SPAN-334, SPAN-335, SPAN-338, SPAN-340, SPAN-341, SPAN-377-IL, SPAN-380; 1
+18th 19th Cent Hisp Lit, SPAN-420, 1, SPAN-320, SPAN-323
+20th Cent Hisp Lit, SPAN-430, 1, SPAN-320, SPAN-323
+Adv St Hispanic Lang, SPAN-480, 1, SPAN-320, SPAN-323
+Statistical Methods 1, STAT-210, 1
+Statistical Methods 2, STAT-220, 1; STAT-210, INQ-240; 1
+Mathematical Statistics, STAT-301, 1, MATH-122
+Experimental Design, STAT-303, 1; STAT-210, STAT-220; 1
+Applied Regression Analysis, STAT-304, 1; STAT-210, STAT-220; 1
+Fundamentals of Theatre, THEA-101, 1
+Theatre Lab, THEA-103, 0.25, THEA-PERM-103
+Voice and Diction, THEA-111, 1
+Acting 1, THEA-112, 1
+Stagecraft, THEA-125, 1
+Make-up for the Stage, THEA-170, 1, THEA-PERM-170
+Special Topics Theatre & Drama, THEA-199, 0.25, THEA-PERM-199
+Intermediate Theatre Lab, THEA-203, 0.5
+Acting 2, THEA-212, 1; THEA-112, THEA-PERM-212; 1
+Voice and Diction 2, THEA-215, 1
+Scene Design, THEA-225, 1; THEA-125, THEA-PERM-225; 1
+Playwriting, THEA-231, 1
+Theatre History 1, THEA-240, 1
+Theatre History 2, THEA-241, 1
+Costume Construction, THEA-275, 1; THEA-101, THEA-PERM-275; 1
+Special Topics Theatre & Drama 2, THEA-299, 0.5
+Advanced Theatre Lab, THEA-303, 1; THEA-203, THEA-PERM-303; 1
+Acting 3, THEA-312, 1, THEA-212
+Lighting Design, THEA-325, 1; THEA-125, THEA-PERM-325; 1
+Modern Drama, THEA-330, 1
+Focus Shakespeare & Lab T, THEA-332, 1, ENGL-240; ENGL-202, ENGL-203, ENGL-204, ENGL-212, ENGL-213, ENGL-214, ENGL-220, ENGL-256, ENGL-277-IL, ENGL-290; 1
+Performance Theory, THEA-342, 1, THEA-101; THEA-111, THEA-112, THEA-125, THEA-170, THEA-199, THEA-212, THEA-215, THEA-225, THEA-231, THEA-240, THEA-241, THEA-275, THEA-299, THEA-312, THEA-325, THEA-330, THEA-332, THEA-375, THEA-399; 3
+Costume Desing for Stage, THEA-375, 1; THEA-101, THEA-PERM-375; 1
+Special Topics in Theatre, THEA-399, 1
+THEA-450 Req, THEA-450-A, 0; THEA-225, THEA-325, THEA-375; 1
+Play Direction, THEA-450, 1, THEA-101, THEA-112, THEA-450-A; THEA-240, THEA-241; 1
+Tutoring Writ Across Curr, WRIT-306, 1; INQ-110, HNRS-105, HNRS-110, HNRS-120; 1
+ACSI Major Reqs 1, ACSI-A, 0, MATH-122, MATH-321, STAT-301; STAT-210, STAT-220; 1
+ACSI Major Reqs 2, ACSI-B, 0, ACSI-201, ACSI-301
+ACSI Major Reqs 3, ACSI-C, 0, BUAD-242, BUAD-342, ECON-121, ECON-321, ECON-348
+ACSI Major Reqs 4, ACSI-D, 0; STAT-304, BUAD-352, BUAD-442, ECON-227, ECON-232, SOCI-223, STAT-302, ACSI-405, ACSI-406, ACSI-407, ACSI-416, ACSI-495, ACSI-496, ACSI-497; 2
+Actuarial Science BS Major, ACSI-M, 0, ACSI-A, ACSI-B, ACSI-C, ACSI-D
+APCS Major Reqs 1, APCS-A, 0, CPSC-170, CPSC-250, CPSC-290, CPSC-340, CPSC-365, CPSC-415, MATH-131, STAT-202
+APCS Major Reqs 2, APCS-B, 0; CPSC-446, CPSC-445, CPSC-447; 1
+APCS Major Reqs 3, APCS-C, 0; CPSC-350, CPSC-310, CPSC-370, CPSC-463, CPSC-450, CPSC-470; 3
+Applied Computer Science BS Major, APCS-M, 0, APCS-A, APCS-B, APCS-C
+ART Major Reqs 1, ART-A, 0; ARTH-150, ARTH-218, ARTH-226, ARTH-236; 1
+ART Major Reqs 2, ART-B, 0; ARTH-151, ARTH-246, ARTH-256, ARTH-266, ARTH-276, ARTH-286; 1
+ART Major Reqs 3, ART-C, 0; ART-111, ART-121, ART-131, ART-151; 2
+ART Major Reqs 4, ART-D, 0; ART-171, ART-181; 1
+ART Major Reqs 5, ART-E, 0, ART-111, ART-211, ART-311
+ART Major Reqs 6, ART-F, 0, ART-121, ART-221, ART-321
+ART Major Reqs 7, ART-G, 0, ART-131, ART-231, ART-331
+ART Major Reqs 8, ART-H, 0, ART-151, ART-241, ART-341
+ART Major Reqs 9, ART-I, 0, ART-151, ART-261, ART-361
+ART Major Reqs 10, ART-J, 0, ART-171, ART-271, ART-371
+ART Major Reqs 11, ART-K, 0, ART-181, ART-281, ART-381
+Art BA Major, ART-M, 0, ART-A, ART-B, ART-C, ART-D; ART-E, ART-F, ART-G, ART-H, ART-I, ART-J, ART-K; 2
+ARTE Major Reqs 1, ARTE-A, 0, EDUC-210, EDUC-240, EDUC-250, EDUC-300, EDUC-332, EDUC-352, EDUC-380, EDUC-452; EDUC-472, EDUC-474; 2
+ARTE Major Reqs 2, ARTE-B, 0; ARTH-150, ARTH-218, ARTH-226, ARTH-236; 1
+ARTE Major Reqs 3, ARTE-C, 0; ARTH-151, ARTH-246, ARTH-256, ARTH-266, ARTH-276, ARTH-286; 1
+ARTE Major Reqs 4, ARTE-D, 0; ART-111, ART-121, ART-131, ART-151; 2
+ARTE Major Reqs 5, ARTE-E, 0; ART-171, ART-181; 1
+ARTE Major Reqs 6, ARTE-F, 0; ART-211, ART-221, ART-231, ART-241, ART-261, ART-271, ART-281; 1
+ARTE Major Reqs 7, ARTE-G, 0; ART-311, ART-321, ART-331, ART-341, ART-361, ART-371, ART-381; 1
+Art Education BA Major, ARTE-M, 0, ARTE-A, ARTE-B, ARTE-C, ARTE-D, ARTE-E, ARTE-F, ARTE-G
+ARTH Major Reqs 1, ARTH-A, 0, ARTH-150, ARTH-151, ARTH-218
+ARTH Major Reqs 2, ARTH-B, 0; ARTH-220, ARTH-222, ARTH-224; 1
+ARTH Major Reqs 3, ARTH-C, 0; ARTH-236, ARTH-246, ARTH-256; 1
+ARTH Major Reqs 4, ARTH-D, 0; ARTH-266, ARTH-276, ARTH-286, ARTH-296; 1
+ARTH Major Reqs 5, ARTH-E, 0; ARTH-343, ARTH-348, ARTH-353, ARTH-388, ARTH-391, ARTH-405, ARTH-407; 2
+ARTH Major Reqs 6, ARTH-F, 0, ARTH-456
+ARTH Major Reqs 7, ARTH-G, 0; ARTH-177-IL, ARTH-220, ARTH-222, ARTH-224, ARTH-236, ARTH-246, ARTH-250-HI, ARTH-256, ARTH-266, ARTH-276, ARTH-277-IL, ARTH-286, ARTH-291, ARTH-296, ARTH-343, ARTH-348, ARTH-353, ARTH-388, ARTH-391, ARTH-405, ARTH-407; 6
+Art History BA Major, ARTH-M, 0, ARTH-A, ARTH-B, ARTH-C, ARTH-D, ARTH-E, ARTH-F, ARTH-G
+BCHEM BA Reqs 1, BCHM-BA-A, 0; CHEM-111, CHEM-117; 1
+BCHEM BA Reqs 2, BCHM-BA-B, 0; CHEM-112, CHEM-118; 1
+BCHEM BA Reqs 3, BCHM-BA-C, 0, CHEM-221, CHEM-222, CHEM-255, CHEM-341, CHEM-342, BIOL-190, BIOL-210, BIOL-315
+BCHEM BA Reqs 4, BCHM-BA-D, 0; BIOL-235, BIOL-370, BIOL-380, BIOL-390, BIOL-400, BIOL-410, BIOL-420, CHEM-260, CHEM-270, CHEM-277-IL, CHEM-299, CHEM-331, CHEM-332, CHEM-340, CHEM-350, CHEM-399, CHEM-420, CHEM-460, CHEM-499, BIOL-480; 1
+BCHEM BA Reqs 5, BCHM-BA-E, 0; PHYS-103, PHYS-104; 1
+BCHEM BA Reqs 6, BCHM-BA-F, 0; PHYS-201, PHYS-202; 1
+BCHEM BA Reqs 7, BCHM-BA-G, 0; MATH-119, MATH-121; 1
+Biochemistry BA Major, BCHM-BA-M, 0, BCHM-BA-A, BCHM-BA-B, BCHM-BA-C, BCHM-BA-D, BCHM-BA-G; BCHM-BA-E, BCHM-BA-F; 1
+BCHEM BS Reqs 1, BCHM-BS-A, 0; CHEM-111, CHEM-117; 1
+BCHEM BS Reqs 2, BCHM-BS-B, 0; CHEM-112, CHEM-118; 1
+BCHEM BS Reqs 3, BCHM-BS-C, 0; CHEM-255, CHEM-280; 1
+BCHEM BS Reqs 3, BCHM-BS-D, 0, CHEM-221, CHEM-222, CHEM-341, CHEM-342, BIOL-190, BIOL-210, BIOL-315
+BCHEM BS Reqs 4, BCHM-BS-E, 0; CHEM-260, CHEM-270, CHEM-277-IL, CHEM-299, CHEM-331, CHEM-332, CHEM-340, CHEM-350, CHEM-399, CHEM-420, CHEM-460, CHEM-499, BIOL-480; 1
+Biochemistry BS Major, BCHM-BS-M, 0, BCHM-BS-A, BCHM-BS-B, BCHM-BS-C, BCHM-BS-D, BCHM-BS-E
+BIOL BA Reqs 1, BIOL-BA-A, 0, BIOL-110, BIOL-180, BIOL-190
+BIOL BA Reqs 2, BIOL-BA-B, 0; BIOL-205, BIOL-225, BIOL-235, BIOL-240, BIOL-265, BIOL-270, BIOL-275, BIOL-280, BIOL-300, BIOL-330, BIOL-335, BIOL-340, BIOL-415; 2
+BIOL BA Reqs 3, BIOL-BA-C, 0; BIOL-210, BIOL-260, BIOL-305, BIOL-310, BIOL-315, BIOL-365, BIOL-370, BIOL-380, BIOL-390, BIOL-400, BIOL-410, BIOL-420; 2
+BIOL BA Reqs 4, BIOL-BA-D, 0; CHEM-111, CHEM-117; 1
+BIOL BA Reqs 5, BIOL-BA-E, 0; CHEM-112, CHEM-118; 1
+BIOL BA Reqs 6, BIOL-BA-F, 0; PHYS-102, PHYS-103, PHYS-201; 1
+BIOL BA Reqs 7, BIOL-BA-G, 0; INQ-240, HNRS-240; 1
+BIOL BA Reqs 8, BIOL-BA-H, 0, MATH-115
+BIOL BA Reqs 9, BIOL-BA-I, 0; BIOL-205, BIOL-225, BIOL-235, BIOL-240, BIOL-265, BIOL-270, BIOL-275, BIOL-280, BIOL-300, BIOL-330, BIOL-210, BIOL-260, BIOL-305, BIOL-315, BIOL-365, BIOL-380, BIOL-390, BIOL-400, BIOL-420; 2
+BIOL BA Reqs 10, BIOL-BA-J, 0; BIOL-300, BIOL-330, BIOL-340, BIOL-415, BIOL-305, BIOL-315, BIOL-365, BIOL-370, BIOL-380, BIOL-390, BIOL-400, BIOL-410, BIOL-420; 2
+BIOL BA Reqs 11, BIOL-BA-K, 0; BIOL-205, BIOL-225, BIOL-235, BIOL-240, BIOL-265, BIOL-270, BIOL-275, BIOL-280, BIOL-300, BIOL-330, BIOL-210, BIOL-260, BIOL-305, BIOL-315, BIOL-365, BIOL-380, BIOL-390, BIOL-400, BIOL-420, BIOL-300, BIOL-330, BIOL-340, BIOL-415, BIOL-370, BIOL-410; 4
+Biology BA Major, BIOL-BA-M, 0, BIOL-BA-A, BIOL-BA-B, BIOL-BA-C, BIOL-BA-D, BIOL-BA-E, BIOL-BA-F, BIOL-BA-G, BIOL-BA-H, BIOL-BA-I, BIOL-BA-J, BIOL-BA-K
+BIOL-BS Reqs 1, BIOL-BS-A, 0, BIOL-110, BIOL-180, BIOL-190, BIOL-480
+BIOL-BS Reqs 2, BIOL-BS-B, 0; BIOL-205, BIOL-225, BIOL-235, BIOL-240, BIOL-245, BIOL-246, BIOL-265, BIOL-270, BIOL-275, BIOL-280, BIOL-300, BIOL-330, BIOL-340, BIOL-345, BIOL-346, BIOL-415; 2
+BIOL-BS Reqs 3, BIOL-BS-C, 0; BIOL-210, BIOL-245, BIOL-246, BIOL-260, BIOL-305, BIOL-315, BIOL-345, BIOL-346, BIOL-365, BIOL-370, BIOL-380, BIOL-390, BIOL-400, BIOL-410, BIOL-420; 2
+BIOL-BS Reqs 4, BIOL-BS-D, 0; BIOL-300, BIOL-330, BIOL-340, BIOL-415, BIOL-305, BIOL-315, BIOL-345, BIOL-346, BIOL-365, BIOL-370, BIOL-380, BIOL-390, BIOL-400, BIOL-410, BIOL-420; 2
+BIOL-BS Reqs 5, BIOL-BS-E, 0; BIOL-205, BIOL-210, BIOL-235, BIOL-240, BIOL-246, BIOL-260, BIOL-265, BIOL-270, BIOL-275, BIOL-280, BIOL-300, BIOL-305, BIOL-315, BIOL-330, BIOL-346, BIOL-365, BIOL-380, BIOL-390, BIOL-400, BIOL-420; 2
+BIOL-BS Reqs 6, BIOL-BS-F, 0, CHEM-111, CHEM-112, MATH-115, PHYS-102; INQ-240, HNRS-240; 1
+BIOL-BS Reqs 7, BIOL-BS-G, 0; BIOL-205, BIOL-225, BIOL-235, BIOL-240, BIOL-245, BIOL-246, BIOL-265, BIOL-270, BIOL-275, BIOL-280, BIOL-300, BIOL-330, BIOL-340, BIOL-345, BIOL-346, BIOL-415; 3
+BIOL-BS Reqs 8, BIOL-BS-H, 0; CHEM-221, CHEM-222, CHEM-255, CHEM-260, CHEM-270, CHEM-277-IL, CHEM-299, CHEM-331, CHEM-332, CHEM-340, CHEM-341, CHEM-342, CHEM-350, CHEM-399, CHEM-420, CHEM-460, CHEM-499; 1
+BIOL-BS Reqs 9, BIOL-BS-I, 0; PHYS-104, PHYS-190, PHYS-201, PHYS-202, PHYS-203, PHYS-250, PHYS-270, PHYS-299, PHYS-310, PHYS-330, PHYS-350, PHYS-370, PHYS-390, PHYS-410, PHYS-430, PHYS-450, PHYS-470, PHYS-490, PHYS-499; 1
+BIOL-BS Reqs 10, BIOL-BS-J, 0; CPSC-120, CPSC-170, CPSC-250, CPSC-270, CPSC-310, CPSC-342, CPSC-350, CPSC-361, CPSC-362, CPSC-363, CPSC-370, CPSC-450, CPSC-461, CPSC-462, CPSC-463, CPSC-464, CPSC-465, CPSC-470, STAT-210, STAT-220, STAT-301, STAT-303, STAT-304; 1
+BIOL-BS Reqs 11, BIOL-BS-K, 0; ENSC-101, ENSC-220, ENSC-230, ENSC-261, ENSC-265, ENSC-270, ENSC-357-HI, ENSC-361, ENSC-365, ENSC-370, ENSC-380; 1
+Biology BS Major, BIOL-BS-M, 0, BIOL-BS-A, BIOL-BS-B, BIOL-BS-C, BIOL-BS-D, BIOL-BS-E, BIOL-BS-F; BIOL-BS-G, BIOL-BS-H, BIOL-BS-I, BIOL-BS-J, BIOL-BS-K; 1
+BIOE Major Reqs 1, BIOE-A, 0, EDUC-210, EDUC-240, EDUC-250, EDUC-300, EDUC-332, EDUC-352, EDUC-380, EDUC-452; EDUC-472, EDUC-474; 2
+BIOE Major Reqs 2, BIOE-B, 0, BIOL-110, BIOL-180, BIOL-190, BIOL-315
+BIOE Major Reqs 3, BIOE-C, 0; CHEM-111, CHEM-117; 1
+BIOE Major Reqs 4, BIOE-D, 0; CHEM-112, CHEM-118; 1
+BIOE Major Reqs 5, BIOE-E, 0, MATH-115, PHYS-102
+BIOE Major Reqs 6, BIOE-F, 0; BIOL-235, BIOL-265, BIOL-270, BIOL-275, BIOL-280, BIOL-290, BIOL-335, BIOL-346, BIOL-365; 1
+Biology Education BA Major, BIOE-M, 0, BIOE-A, BIOE-B, BIOE-C, BIOE-D, BIOE-E, BIOE-F
+BUAD Major Reqs 1, BUAD-A, 0, BUAD-110, BUAD-215, BUAD-218, BUAD-225, BUAD-227, BUAD-233, BUAD-248, BUAD-254, BUAD-342, BUAD-348, BUAD-499
+BUAD Major Reqs 2, BUAD-B, 0, ECON-121, ECON-122
+Business Administration BBA Major, BUAD-M, 0, BUAD-A, BUAD-B
+CHEM BA Major Reqs 1, CHEM-BA-A, 0; CHEM-110, CHEM-111, CHEM-117; 1
+CHEM BA Major Reqs 2, CHEM-BA-B, 0; CHEM-112, CHEM-113, CHEM-118; 1
+CHEM BA Major Reqs 3, CHEM-BA-C, 0, CHEM-221, CHEM-222, CHEM-331, CHEM-332, CHEM-350
+CHEM BA Major Reqs 4, CHEM-BA-D, 0; CHEM-255, CHEM-280; 1
+CHEM BA Major Reqs 5, CHEM-BA-E, 0; CHEM-250, CHEM-260, CHEM-270, CHEM-299, CHEM-340, CHEM-341, CHEM-342, CHEM-399, CHEM-420, CHEM-430, CHEM-460, CHEM-499; 2
+Chemistry BA Major, CHEM-BA-M, 0, CHEM-BA-A, CHEM-BA-B, CHEM-BA-C, CHEM-BA-D, CHEM-BA-E
+CHEM BS Major Reqs 1, CHEM-BS-A, 0; CHEM-110, CHEM-111, CHEM-117; 1
+CHEM BS Major Reqs 2, CHEM-BS-B, 0; CHEM-112, CHEM-113, CHEM-118; 1
+CHEM BS Major Reqs 3, CHEM-BS-C, 0, CHEM-221, CHEM-222, CHEM-260, CHEM-331, CHEM-332, CHEM-341, CHEM-350
+CHEM BS Major Reqs 4, CHEM-BS-D, 0; CHEM-420, CHEM-460, CHEM-499; 1
+CHEM BS Major Reqs 5, CHEM-BS-E, 0; CHEM-420, CHEM-460, CHEM-499, CHEM-342, CHEM-430, CHEM-499; 2
+CHEM BS Major Reqs 6, CHEM-BS-F, 0; CHEM-341, CHEM-342, CHEM-420, CHEM-430, CHEM-460, CHEM-499, CHEM-250, CHEM-270, CHEM-299, CHEM-340, CHEM-399; 3
+Chemistry BS Major, CHEM-BS-M, 0, CHEM-BS-A, CHEM-BS-B, CHEM-BS-C, CHEM-BS-D, CHEM-BS-E, CHEM-BS-F
+CHME Major Reqs 1, CHME-A, 0, EDUC-210, EDUC-240, EDUC-250, EDUC-300, EDUC-332, EDUC-352, EDUC-380, EDUC-452; EDUC-472, EDUC-474; 2
+CHME Major Reqs 2, CHME-B, 0; CHEM-111, CHEM-117; 1
+CHME Major Reqs 3, CHME-C, 0; CHEM-112, CHEM-118; 1
+CHME Major Reqs 4, CHME-D, 0, CHEM-221, CHEM-222, CHEM-255, CHEM-260, CHEM-341
+CHME Major Reqs 5, CHME-E, 0, ENSC-101, PHYS-103
+Chemistry Education BA Major, CHME-M, 0, CHME-A, CHME-B, CHME-C, CHME-D, CHME-E
+CRST Major Reqs 1, CRST-A, 0; RELG-201, RELG-202, RELG-215, RELG-216; 1
+CRST Major Reqs 2, CRST-B, 0; PHIL-221, PHIL-251, PHIL-253, PHIL-255; 1
+CRST Major Reqs 3, CRST-C, 0; RELG-220, RELG-282, RELG-284, RELG-286; 2
+CRST Major Reqs 4, CRST-D, 0; RELG-312, RELG-317, RELG-330, RELG-340; 2
+CRST Major Reqs 5, CRST-E, 0; RELG-491, HNRS-300; 1
+CRST Major Reqs 6, CRST-F, 0, RELG-102; RELG-210, RELG-212, RELG-214, RELG-225, RELG-231, RELG-240, RELG-246, RELG-250; 2
+CRST Major Reqs 6, CRST-G, 0, RELG-210; RELG-212, RELG-214, RELG-225, RELG-231, RELG-240, RELG-246, RELG-250; 2
+Christian Studies BA Major, CRST-M, 0, CRST-A, CRST-B, CRST-C, CRST-D, CRST-E, CRST-F, CRST-G
+COMM Major Reqs 1, COMM-A, 0, COMM-101, COMM-250, COMM-254, COMM-350, COMM-354, COMM-411
+COMM Major Reqs 2, COMM-B, 0; COMM-202, COMM-220, COMM-260; 2
+COMM Major Reqs 3, COMM-C, 0; COMM-301, COMM-311, COMM-317, COMM-319, COMM-330, COMM-360, ENGL-356; 2
+Communications BA Major, COMM-M, 0, COMM-A, COMM-B, COMM-C
+CPSC Major Reqs 1, CPSC-A, 0, CPSC-170, MATH-131, CPSC-250, CPSC-270, CPSC-350, CPSC-370, CPSC-450, CPSC-470
+CPSC Major Reqs 2, CPSC-B, 0; STAT-210, STAT-220; 1
+CPSC Major Reqs 3, CPSC-C, 0; CPSC-461, CPSC-462, CPSC-463, CPSC-464, CPSC-465; 1
+CPSC Major Reqs 4, CPSC-D, 0; CPSC-310, CPSC-342, CPSC-361, CPSC-362, CPSC-363, CPSC-461, CPSC-462, CPSC-463, CPSC-464, CPSC-465; 3
+Computer Science BS Major, CPSC-M, 0, CPSC-A, CPSC-B, CPSC-C, CPSC-D
+CSED Major Reqs 1, CSED-A, 0, EDUC-210, EDUC-240, EDUC-250, EDUC-300, EDUC-332, EDUC-352, EDUC-380, EDUC-452; EDUC-472, EDUC-474; 2
+CSED Major Reqs 2, CSED-B, 0, CPSC-120, CPSC-170, CPSC-250, CPSC-270, CPSC-350, CPSC-361, MATH-131; STAT-210, STAT-220; 2
+Computer Science Education BA Major, CSED-M, 0, CSED-A, CSED-B
+CRWR Major Reqs 1, CRWR-A, 0, CRWR-215, CRWR-216, CRWR-230, CRWR-330, CRWR-412
+CRWR Major Reqs 2, CRWR-B, 0; CRWR-315, CRWR-316, CRWR-317; 2
+CRWR Major Reqs 3, CRWR-C, 0; ENGL-202, ENGL-203, ENGL-204, ENGL-212, ENGL-213, ENGL-214, ENGL-220, ENGL-256, ENGL-277-IL, ENGL-290, ENGL-301, ENGL-308, ENGL-317-HI, ENGL-320, ENGL-321, ENGL-322, ENGL-323, ENGL-332, ENGL-350, ENGL-354, ENGL-356, ENGL-377-IL, ENGL-411; 4
+CRWR Major Reqs 3, CRWR-D, 0; ENGL-301, ENGL-308, ENGL-317-HI, ENGL-320, ENGL-321, ENGL-322, ENGL-323, ENGL-332, ENGL-350, ENGL-354, ENGL-356, ENGL-377-IL, ENGL-411; 2
+Creative Writing BA Major, CRWR-M, 0, CRWR-A, CRWR-B, CRWR-C, CRWR-D
+CJUS Major Reqs 1, CJUS-A, 0, CJUS-209, CJUS-211, CJUS-401, POLI-112, POLI-250, SOCI-101, SOCI-238, SOCI-334; POLI-201, POLI-270; 1
+CJUS Major Reqs 2, CJUS-B, 0; CJUS-213, CJUS-214, CJUS-215, CJUS-240, CJUS-240, CJUS-325, CJUS-326, POLI-233; 2
+CJUS Major Reqs 3, CJUS-C, 0; INQ-250-CH, POLI-201, POLI-270, BUAD-205, BUAD-215, CJUS-216, CJUS-227, CJUS-231, POLI-312, PSYC-322, PSYC-381, SOCI-237; 2
+Criminal Justice BA Major, CJUS-M, 0, CJUS-A, CJUS-B, CJUS-C
+DATA Major Reqs 1, DATA-A, 0, CPSC-120, CPSC-350, DATA-170, DATA-248, DATA-350, DATA-480, DATA-490
+DATA Major Reqs 2, DATA-B, 0, MATH-121, STAT-220; STAT-210, INQ-240; 1
+DATA Major Reqs 3, DATA-C, 0, CPSC-170, MATH-131, STAT-304, CPSC-465
+DATA Major Reqs 4, DATA-D, 0, BUAD-205, BUAD-218, BUAD-248; BUAD-342, ECON-348; 1
+Data Science BS Major, DATA-M, 0, DATA-A, DATA-B; DATA-C, DATA-D; 1
+ECON Major Reqs 1, ECON-A, 0, ECON-121, ECON-122, ECON-321, ECON-322, ECON-347, ECON-348, ECON-461
+ECON Major Reqs 2, ECON-B, 0; ECON-227, ECON-232, ECON-242, ECON-247, ECON-248, ECON-252, ECON-257, ECON-261, ECON-267, ECON-277-IL, ECON-287, ECON-312-HI, ECON-395; 4
+Economics BA Major, ECON-M, 0, ECON-A, ECON-B
+EDPS Major Reqs 1, EDPS-A, 0, EDUC-210, CLST-231, EDUC-240, EDUC-250, EDUC-451, TESL-320; EDUC-321, EDUC-331, EDUC-341, EDUC-361, EDUC-371; 3
+EDPS Major Reqs 2, EDPS-B, 0, EDUC-406; PSYC-241, PSYC-251, PSYC-344, PSYC-351, SOCI-201, SOCI-221, SOCI-224, SOCI-229, SOCI-238, SOCI-320, SOCI-351, SOCI-352; 2
+EDPS Major Reqs 3, EDPS-C, 0, EDUC-496; PSYC-241, PSYC-251, PSYC-344, PSYC-351, SOCI-201, SOCI-221, SOCI-224, SOCI-229, SOCI-238, SOCI-320, SOCI-351, SOCI-352; 2
+Education Professional Studies BA Major, EDPS-M, 0, EDPS-A; EDPS-B, EDPS-C; 1
+EDST Major Reqs 1, EDST-A, 0, EDUC-210, EDUC-240, EDUC-250, EDUC-300; EDUC-451, EDUC-452; 1
+EDST Major Reqs 2, EDST-B-A, 0; ART-111, ART-121, ART-131, ART-151, ART-171, ART-181; 1
+EDST Major Reqs 3, EDST-B-B, 0; ART-211, ART-221, ART-231, ART-241, ART-261, ART-271, ART-281; 1
+EDST Major Reqs 4, EDST-B-C, 0; ART-311, ART-321, ART-331, ART-341, ART-361, ART-371, ART-381; 1
+EDST Major Reqs 5, EDST-B-D, 0; ARTH-150, ARTH-151; 1
+EDST Major Reqs 6, EDST-B-E, 0; CRWR-215, CRWR-216; 1
+EDST Major Reqs 7, EDST-B-F, 0, CRWR-330
+EDST Major Reqs 8, EDST-B-G, 0; ENGL-202, ENGL-203, ENGL-204, ENGL-212, ENGL-213, ENGL-214, ENGL-220, ENGL-256, ENGL-290; 1
+EDST Major Reqs 9, EDST-B-H, 0; ENGL-202, ENGL-203, ENGL-204, ENGL-212, ENGL-213, ENGL-214, ENGL-220, ENGL-256, ENGL-290; 2
+EDST Major Reqs 10, EDST-B-I, 0; ENGL-308, ENGL-320, ENGL-320, ENGL-321, ENGL-322, ENGL-323, ENGL-332, ENGL-350, ENGL-356; 1
+EDST Major Reqs 11, EDST-B-J, 0; ENGL-308, ENGL-320, ENGL-320, ENGL-321, ENGL-322, ENGL-323, ENGL-332, ENGL-350, ENGL-356; 2
+EDST Major Reqs 12, EDST-B-K, 0; ENGL-308, ENGL-320, ENGL-320, ENGL-321, ENGL-322, ENGL-323, ENGL-332, ENGL-350, ENGL-356; 3
+EDST Major Reqs 13, EDST-B-L, 0; FREN-301, GRMN-301, ITAL-306, JAPN-306, SPAN-304; 1
+EDST Major Reqs 14, EDST-B-M, 0; FREN-302, SPAN-303; 1
+EDST Major Reqs 15, EDST-B-N, 0; FREN-311, GRMN-311, SPAN-311, FREN-312, SPAN-312, GRMN-314; 1
+EDST Major Reqs 16, EDST-B-O, 0; FREN-315, GRMN-315, SPAN-315; 1
+EDST Major Reqs 17, EDST-B-P, 0; FREN-338, LANG-338, SPAN-338; 1
+EDST Major Reqs 18, EDST-B-Q, 0, GNDR-150
+EDST Major Reqs 19, EDST-B-R, 0, MUSC-150
+EDST Major Reqs 20, EDST-B-S, 0, MUSC-240
+EDST Major Reqs 21, EDST-B-T, 0, MUSC-251
+EDST Major Reqs 22, EDST-B-U, 0, MUSC-375
+EDST Major Reqs 23, EDST-B-V, 0; THEA-101, THEA-112, THEA-125; 1
+EDST Major Reqs 24, EDST-B-W, 0; THEA-212, THEA-225; 1
+EDST Major Reqs 25, EDST-B-X, 0; THEA-103, THEA-203; 1
+EDST Major Reqs 26, EDST-B-Y, 0; CRWR-315, CRWR-316; 1
+EDST Major Reqs 27, EDST-B-Z, 0; THEA-240, THEA-241; 1
+EDST Major Reqs SA, EDST-B, 0; EDST-B-A, EDST-B-B, EDST-B-C, EDST-B-D, EDST-B-E, EDST-B-F, EDST-B-G, EDST-B-H, EDST-B-I, EDST-B-J, EDST-B-K, EDST-B-L, EDST-B-M, EDST-B-N, EDST-B-O, EDST-B-P, EDST-B-Q, EDST-B-R, EDST-B-S, EDST-B-T, EDST-B-U, EDST-B-V, EDST-B-W, EDST-B-X, EDST-B-Y, EDST-B-Z; 4
+EDST Major Reqs 28, EDST-C-A, 0; ARTH-218, ANTH-218, HIST-218, ANTH-101; 1
+EDST Major Reqs 29, EDST-C-B, 0, ARTH-224
+EDST Major Reqs 30, EDST-C-C, 0, ANTH-380
+EDST Major Reqs 31, EDST-C-D, 0, BUAD-254
+EDST Major Reqs 32, EDST-C-E, 0, BUAD-264
+EDST Major Reqs 33, EDST-C-F, 0; ENSC-101, ENST-103, ENST-105; 1
+EDST Major Reqs 34, EDST-C-G, 0, ENST-212
+EDST Major Reqs 35, EDST-C-H, 0, ENSC-220
+EDST Major Reqs 36, EDST-C-I, 0, GNDR-150
+EDST Major Reqs 37, EDST-C-J, 0, HHP-210
+EDST Major Reqs 38, EDST-C-K, 0, HHP-221
+EDST Major Reqs 39, EDST-C-L, 0, HHP-301
+EDST Major Reqs 40, EDST-C-M, 0, HIST-205
+EDST Major Reqs 41, EDST-C-N, 0, HIST-206
+EDST Major Reqs 42, EDST-C-O, 0, PEAC-201
+EDST Major Reqs 43, EDST-C-P, 0, PEAC-301
+EDST Major Reqs 44, EDST-C-Q, 0, POLI-246
+EDST Major Reqs 45, EDST-C-R, 0, POLI-352
+EDST Major Reqs 46, EDST-C-S, 0, PSYC-221
+EDST Major Reqs 47, EDST-C-T, 0, PSYC-321
+EDST Major Reqs 48, EDST-C-U, 0, PSYC-322
+EDST Major Reqs 49, EDST-C-V, 0, RELG-130
+EDST Major Reqs 50, EDST-C-W, 0, RELG-225
+EDST Major Reqs 51, EDST-C-X, 0, SOCI-224
+EDST Major Reqs 52, EDST-C-Y, 0, SOCI-229
+EDST Major Reqs 53, EDST-C-Z, 0, SOCI-238
+EDST Major Reqs SB, EDST-C, 0; EDST-C-A, EDST-C-B, EDST-C-C, EDST-C-D, EDST-C-E, EDST-C-F, EDST-C-G, EDST-C-H, EDST-C-I, EDST-C-J, EDST-C-K, EDST-C-L, EDST-C-M, EDST-C-N, EDST-C-O, EDST-C-P, EDST-C-Q, EDST-C-R, EDST-C-S, EDST-C-T, EDST-C-U, EDST-C-V, EDST-C-W, EDST-C-X, EDST-C-Y, EDST-C-Z; 4
+Education Studies BA Major, EDST-M, 0, EDST-A; EDST-B, EDST-C; 1
+Elementary Education BS Major, ELED-M, 0, EDUC-210, CLST-231, EDUC-240, EDUC-250, EDUC-451, TESL-320, EDUC-321, EDUC-331, EDUC-341, EDUC-361, EDUC-371, EDUC-380
+ENGS BA Major Reqs 1, ENGS-BA-A, 0, MATH-121, MATH-122, PHYS-190, PHYS-201, PHYS-202, ENGS-191, ENGS-192, ENGS-200, ENGS-490
+ENGS BA Major Reqs 2, ENGS-BA-B, 0; ENGS-301, ENGS-302, ENGS-303, ENGS-304; 2
+ENGS BA Major Reqs 3, ENGS-BA-C, 0, CHEM-221, CHEM-260; CHEM-112, CHEM-118; 1
+ENGS BA Major Reqs 4, ENGS-BA-D, 0, ENSC-101, ENSC-230, ENSC-270
+Engineering Science BA Major, ENGS-BA-M, 0, ENGS-BA-A, ENGS-BA-B; ENGS-BA-C, ENGS-BA-D; 1
+ENGS BS Major Reqs 1, ENGS-BS-A, 0, MATH-121, MATH-122, PHYS-190, PHYS-201, PHYS-202, PHYS-270, CPSC-120, ENGS-191, ENGS-192, ENGS-200, ENGS-301, ENGS-302, ENGS-303, ENGS-304, ENGS-490, ENGS-491
+ENGS BS Major Reqs 2, ENGS-BS-B, 0, PHYS-250, PHYS-450
+ENGS BS Major Reqs 3, ENGS-BS-C, 0, CPSC-250, CPSC-363
+ENGS BS Major Reqs 4, ENGS-BS-D, 0, ENGS-330; PHYS-299, PHYS-499; 1
+Engineering Science BS Major, ENGS-BS-M, 0, ENGS-BS-A; ENGS-BS-B, ENGS-BS-C, ENGS-BS-D; 1
+ENGE Major Reqs 1, ENGE-A, 0, EDUC-210, EDUC-240, EDUC-250, EDUC-300, EDUC-332, EDUC-352, EDUC-380, EDUC-452; EDUC-472, EDUC-474; 2
+ENGE Major Reqs 2, ENGE-B, 0, ENGL-240, ENGL-250, ENGL-321, ENGL-390
+ENGE Major Reqs 3, ENGE-C, 0; ENGL-260, ENGL-360; 1
+ENGE Major Reqs 4, ENGE-D, 0; ENGL-322, WRIT-306; 1
+ENGE Major Reqs 5, ENGE-E, 0; ENGL-323, ENGL-320; 1
+ENGE Major Reqs 6, ENGE-F, 0; ENGL-354, ENGL-356; 1
+ENGE Major Reqs 7, ENGE-G, 0; COMM-101, COMM-220; 1
+English Education BA Major, ENGE-M, 0, ENGE-A, ENGE-B, ENGE-C, ENGE-D, ENGE-E, ENGE-F, ENGE-G
+FREN Major Reqs 1, FREN-A, 0, FREN-201, FREN-202
+FREN Major Reqs 2, FREN-B, 0; FREN-301, FREN-302, FREN-303, FREN-311, FREN-312, FREN-315, FREN-330, FREN-338, FREN-341, FREN-377-IL, FREN-380, FREN-420, FREN-421, FREN-431, FREN-441, FREN-461, FREN-480; 2
+FREN Major Reqs 3, FREN-C, 0; FREN-301, FREN-302; 1
+FREN Major Reqs 4, FREN-D, 0; FREN-302, FREN-330; 1
+FREN Major Reqs 5, FREN-E, 0; FREN-311, FREN-312, FREN-315; 1
+FREN Major Reqs 6, FREN-F, 0; FREN-201, FREN-202, FREN-277-IL, FREN-301, FREN-302, FREN-303, FREN-311, FREN-312, FREN-315, LING-320, FREN-330, FREN-338, FREN-341, FREN-377-IL, FREN-380, FREN-420, FREN-421, FREN-431, FREN-441, FREN-461, FREN-480; 9
+French BA Major, FREN-M, 0, FREN-C, FREN-D, FREN-E, FREN-F; FREN-A, FREN-B; 1
+FRED Major Reqs 1, FRED-A, 0, EDUC-210, EDUC-240, EDUC-250, EDUC-300, EDUC-332, EDUC-352, EDUC-380, EDUC-452; EDUC-472, EDUC-474; 2
+FRED Major Reqs 2, FRED-B, 0, FREN-202, FREN-301, FREN-302, FREN-338; FREN-311, FREN-312, FREN-315; 1
+FRED Major Reqs 3, FRED-C, 0; FREN-312, FREN-315, FREN-303, FREN-311, FREN-380, FREN-420, FREN-421, FREN-431, FREN-441, FREN-451, FREN-461, FREN-480; 4
+French Education BA Major, FRED-M, 0, FRED-A, FRED-B, FRED-C
+HPEE Major Reqs 1, HPEE-A, 0, EDUC-210, EDUC-240, EDUC-250, EDUC-352, EDUC-380, EDUC-452, EDUC-474
+HPEE Major Reqs 2, HPEE-B, 0, HHP-195, HHP-201, HHP-208, HHP-226, HHP-301, HHP-316, HHP-325, HHP-404, BIOL-106, BIOL-230
+HPEE Major Reqs 3, HPEE-C, 0; HHP-203, HHP-204, HHP-205, HHP-206; 2
+Health & Physical Education BA Major, HPEE-M, 0, HPEE-A, HPEE-B, HPEE-C
+HEXS BS Major Reqs 1, HEXS-BS-A, 0, HHP-195, HHP-201, HHP-208, HHP-223, HHP-230, HHP-317, HHP-325
+HEXS BS Major Reqs 2, HEXS-BS-B, 0; HHP-226, HHP-301, HHP-315, HHP-316, HHP-326; 2
+HEXS BS Major Reqs 3, HEXS-BS-C, 0; HHP-400, HHP-402, HHP-415, HHP-420; 2
+HEXS BS Major Reqs 4, HEXS-BS-D, 0, BIOL-106; MATH-121, BIOL-230, BIOL-235, BIOL-260, CHEM-111, CHEM-117, CHEM-112, CHEM-118, PHYS-102, PHYS-103, MATH-111, MATH-118, MATH-115; 5
+Health & Exercise Science BS Major, HEXS-BS-M, 0, HEXS-BS-A, HEXS-BS-B, HEXS-BS-C, HEXS-BS-D
+HEXS BA Major Reqs 1, HEXS-BA-A, 0, HHP-195, HHP-201, HHP-208, HHP-223, HHP-230, HHP-325
+HEXS BA Major Reqs 2, HEXS-BA-B, 0; HHP-226, HHP-301, HHP-315, HHP-316, HHP-326; 3
+HEXS BA Major Reqs 3, HEXS-BA-C, 0; HHP-400, HHP-402, HHP-415, HHP-420; 1
+HEXS BA Major Reqs 4, HEXS-BA-D, 0, BIOL-106, BIOL-230, BIOL-260
+Health & Exercise Science BA Major, HEXS-BA-M, 0, HEXS-BA-A, HEXS-BA-B, HEXS-BA-C, HEXS-BA-D
+HPE Major Reqs 1, HPE-A, 0, HHP-201, HHP-203, HHP-204, HHP-205, HHP-206, HHP-208, HHP-221, HHP-223, HHP-226, HHP-301, HHP-302, HHP-305, HHP-404, HHP-409, BIOL-230
+Health & Physical Education BS Major, HPE-M, 0, HPE-A
+HIST Major Reqs 1, HIST-A, 0; HIST-110, HIST-120; 1
+HIST Major Reqs 2, HIST-B, 0; HIST-130, HIST-140; 1
+HIST Major Reqs 3, HIST-C, 0; HIST-211, HIST-212, HIST-213, HIST-214, HIST-218, HIST-223, HIST-230, HIST-231, HIST-233, HIST-235; 1
+HIST Major Reqs 4, HIST-D, 0; HIST-200, HIST-205, HIST-206, HIST-207, HIST-209, HIST-241, HIST-242, HIST-243, HIST-244, HIST-245, HIST-246, HIST-261, HIST-261, HIST-262, HIST-263, HIST-264, HIST-267, HIST-268, HIST-269; 1
+HIST Major Reqs 5, HIST-E, 0; HIST-208, HIST-210, HIST-253, HIST-254, HIST-255, HIST-256, HIST-272, HIST-281, HIST-282, HIST-283, HIST-284, HIST-285; 1
+HIST Major Reqs 6, HIST-F, 0, HIST-300, HIST-490; HIST-310, HIST-320, HIST-325, HIST-350, HIST-305, HIST-375, HIST-380; 1
+HIST Major Reqs 7, HIST-G, 0; HIST-200, HIST-205, HIST-206, HIST-207, HIST-209, HIST-241, HIST-242, HIST-243, HIST-244, HIST-245, HIST-246, HIST-261, HIST-261, HIST-262, HIST-263, HIST-264, HIST-267, HIST-268, HIST-269, HIST-211, HIST-212, HIST-213, HIST-214, HIST-218, HIST-223, HIST-230, HIST-231, HIST-233, HIST-235, HIST-208, HIST-210, HIST-253, HIST-254, HIST-255, HIST-256, HIST-272, HIST-277-IL, HIST-281, HIST-282, HIST-283, HIST-284, HIST-285, HIST-290; 5
+HIST Major Reqs 8, HIST-H, 0; HIST-305, HIST-310, HIST-320, HIST-325, HIST-330, HIST-335, HIST-340, HIST-350, HIST-360, HIST-365, HIST-370, HIST-375, HIST-380, HIST-390; 1
+HIST Major Reqs 9, HIST-I, 0; HIST-305, HIST-310, HIST-320, HIST-325, HIST-330, HIST-335, HIST-340, HIST-350, HIST-360, HIST-365, HIST-370, HIST-375, HIST-380, HIST-390, HIST-395, HIST-396, HIST-404; 2
+History BA Major, HIST-M, 0, HIST-A, HIST-B, HIST-C, HIST-D, HIST-E, HIST-F, HIST-G, HIST-H, HIST-I
+INST Major Reqs 1, INST-A, 0, EDUC-210, EDUC-250, EDUC-451, TESL-320; CLST-231, ENGL-240, ENGL-250; 1
+INST Major Reqs 2, INST-B, 0; EDUC-242, EDUC-240; 1
+INST Major Reqs 3, INST-C, 0, EDUC-321, EDUC-331, EDUC-341, EDUC-361, EDUC-371, EDUC-380
+INST Major Reqs 4, INST-D-A, 0; EDUC-321, EDUC-331, EDUC-341, EDUC-361, EDUC-371; 1
+INST Major Reqs 5, INST-D-B, 0; PSYC-241, PSYC-251, PSYC-344, PSYC-351, SOCI-201, SOCI-221, SOCI-224, SOCI-229, SOCI-238, SOCI-320, SOCI-351, SOCI-352; 3
+INST Major Reqs 6, INST-D, 0, INST-D-A, INST-D-B
+Interdisiplinary Studies BA Major, INST-M, 0, INST-A, INST-B; INST-C, INST-D; 1
+IREL Major Reqs 1, IREL-A, 0, POLI-111; IR-231, POLI-231; 1
+IREL Major Reqs 2, IREL-B, 0; IR-247, POLI-247; 1
+IREL Major Reqs 3, IREL-C, 0, IR-401; POLI-209, CJUS-209, IR-209; 1
+IREL Major Reqs 4, IREL-D, 0; ECON-247, BUAD-211, BUAD-333, IR-333, POLI-333; 1
+IREL Major Reqs 5, IREL-E, 0; IR-221, IR-222, IR-223, IR-224, IR-225, POLI-221, POLI-222, POLI-223, POLI-224, POLI-225; 1
+IREL Major Reqs 6, IREL-F, 0; IR-225, POLI-225, IR-353, POLI-353, HIST-353, HIST-266, HIST-272, HIST-273, SPAN-315; 1 
+IREL Major Reqs 7, IREL-G, 0; IR-221, POLI-221, HIST-241, HIST-243, HIST-340, GRMN-315; 1
+IREL Major Reqs 8, IREL-H, 0; GEOG-110, IR-232, POLI-232, IR-233, POLI-233, IR-351, POLI-351, IR-352, POLI-352, RELG-130; 1
+IREL Major Reqs 9, IREL-I, 0; IR-222, IR-223, IR-224, POLI-222, POLI-224, HIST-254, HIST-255, HIST-282, HIST-284, POLI-223, IR-234, POLI-234; 1
+IREL Major Reqs 10, IREL-J, 0; FREN-311, FREN-315, FREN-312, GRMN-311, GRMN-314, SPAN-311, SPAN-312; 1
+IREL Major Reqs 11, IREL-K, 0; BUAD-211, BUAD-333, IR-333, POLI-333, IR-221, IR-222, IR-224, IR-225, POLI-221, POLI-222, POLI-224, POLI-225, HIST-266, HIST-272, HIST-241, HIST-243, HIST-340, GEOG-110, IR-233, POLI-233, POLI-351, POLI-352, RELG-130, HIST-254, HIST-255, HIST-282, HIST-284, ECON-247, HIST-245, GRMN-315, HIST-268, IR-261, SOCI-326, SOCI-221, CJUS-326, HIST-140, SOCI-335, SOCI-338, IR-223, SPAN-315; 6
+International Relations BA Major, IREL-M, 0, IREL-A, IREL-B, IREL-C, IREL-D, IREL-E, IREL-F, IREL-G, IREL-H, IREL-I, IREL-J, IREL-K
+LITS Major Reqs 1, LITS-A, 0, ENGL-240, ENGL-250, ENGL-315, ENGL-411; CRWR-215, CRWR-216, ENGL-220, ENGL-256, ENGL-260; 1
+LITS Major Reqs 2, LITS-B, 0; ENGL-330, ENGL-332, ENGL-333, ENGL-334, ENGL-335, ENGL-336; 2
+LITS Major Reqs 3, LITS-C, 0; ENGL-301, ENGL-308, ENGL-317-HI, ENGL-320, ENGL-321, ENGL-322, ENGL-323, ENGL-330, ENGL-332, ENGL-333, ENGL-334, ENGL-335, ENGL-336, ENGL-350, ENGL-354, ENGL-356, ENGL-377-IL; 6
+Literary Studies BA Major, LITS-M, 0, LITS-A, LITS-B, LITS-C
+MATH Major Reqs 1, MATH-A, 0, MATH-122, MATH-131, MATH-201, MATH-491; STAT-210, STAT-220; 1
+MATH Major Reqs 2, MATH-B, 0; CPSC-120, CPSC-150; 1
+MATH Major Reqs 3, MATH-C, 0; MATH-268, MATH-278, MATH-288; 1
+MATH Major Reqs 4, MATH-D, 0, STAT-303; MATH-311, MATH-321, MATH-331; 1
+MATH Major Reqs 5, MATH-E, 0, STAT-304; MATH-311, MATH-321, MATH-331; 1
+MATH Major Reqs 6, MATH-F, 0; MATH-311, MATH-321, MATH-331; 2
+MATH Major Reqs 7, MATH-G, 0; MATH-381, MATH-371, MATH-361; 2
+MATH Major Reqs 8, MATH-H, 0; CPSC-450, PHYS-330, PHYS-350, PHYS-390; 1
+MATH Major Reqs 9, MATH-I, 0; MATH-268, MATH-278, MATH-288, MATH-311, MATH-321, MATH-331, STAT-303, STAT-304, MATH-361, MATH-371, MATH-381, MATH-271, MATH-332, MATH-342, MATH-352, MATH-388, STAT-301, ACSI-301; 6
+Mathematics BS Major, MATH-M, 0, MATH-A, MATH-B, MATH-C, MATH-G, MATH-H, MATH-I; MATH-D, MATH-E, MATH-F; 1
+MAED Major Reqs 1, MAED-A, 0, EDUC-210, EDUC-240, EDUC-250, EDUC-300, EDUC-332, EDUC-352, EDUC-380, EDUC-452; EDUC-472, EDUC-474; 2
+MAED Major Reqs 2, MAED-B, 0, MATH-122, CPSC-120, MATH-131, STAT-210, MATH-201, MATH-278, MATH-121, MATH-361; MATH-321, MATH-331, MATH-311, STAT-303, STAT-304; 1
+Mathematics Education BA Major, MAED-M, 0, MAED-A, MAED-B
+MUSC Major Reqs 1, MUSC-A, 0, MUSC-240, MUSC-251, MUSC-252, MUSC-261, MUSC-262, MUSC-343, MUSC-350; MUSA-101, MUSA-102, MUSA-103, MUSA-104, MUSA-105, MUSA-201, MUSA-202, MUSA-203, MUSA-204, MUSA-301, MUSA-302, MUSA-303, MUSA-304, MUSA-401, MUSA-402, MUSA-403, MUSA-404, MUSA-411, MUSA-413; 5
+MUSC Major Reqs 2, MUSC-B, 0; MUSC-109, MUSC-111, MUSC-112, MUSC-113; 7
+MUSC Major Reqs 3, MUSC-C, 0; MUSC-420, MUSC-421, MUSC-422; 1
+Music Major BA, MUSC-M, 0, MUSC-A, MUSC-B, MUSC-C
+MUED Major Reqs 1, MUED-A, 0, EDUC-210, EDUC-240, EDUC-250, EDUC-300, EDUC-332, EDUC-352, EDUC-380, EDUC-452; EDUC-472, EDUC-474; 2
+MUED Major Reqs 2, MUED-B, 0, MUSC-240, MUSC-251, MUSC-252, MUSC-261, MUSC-262, MUSC-339, MUSC-343, MUSC-350, MUSA-105; MUSA-102; 2
+MUED Major Reqs 3, MUED-C, 0; MUSC-109, MUSC-111, MUSC-112, MUSC-113; 4
+Music Education BA Major, MUSC-M, 0, MUSC-A, MUSC-B, MUSC-C
+PHIL Major Reqs 1, PHIL-A, 0; PHIL-101, PHIL-201; 1
+PHIL Major Reqs 2, PHIL-B, 0; PHIL-251, PHIL-255; 1
+PHIL Major Reqs 3, PHIL-C, 0; PHIL-251, PHIL-255, PHIL-241, PHIL-243, PHIL-253; 2
+PHIL Major Reqs 4, PHIL-D, 0; PHIL-410, PHIL-411, PHIL-412, PHIL-495, PHIL-496, PHIL-497; 1
+PHIL Major Reqs 5, PHIL-E, 0; PHIL-390, PHIL-391; 2
+PHIL Major Reqs 6, PHIL-F, 0; PHIL-201, PHIL-212, PHIL-221, PHIL-222, PHIL-223, PHIL-241, PHIL-243, PHIL-251, PHIL-253, PHIL-255, PHIL-265, PHIL-266, PHIL-275-HI, PHIL-277-IL, PHIL-290, PHIL-390, PHIL-391; 6
+PHIL Major Reqs 7, PHIL-G, 0; PHIL-101, PHIL-111, PHIL-131, PHIL-141, PHIL-177-IL, PHIL-191, PHIL-201, PHIL-212, PHIL-221, PHIL-222, PHIL-223, PHIL-241, PHIL-243, PHIL-251, PHIL-253, PHIL-255, PHIL-265, PHIL-266, PHIL-275-HI, PHIL-277-IL, PHIL-290, PHIL-390, PHIL-391; 7
+Philosophy Major BA Major, PHIL-M, 0, PHIL-A, PHIL-B, PHIL-C, PHIL-D, PHIL-E, PHIL-F, PHIL-G
+PHYS BA Major Reqs 1, PHYS-BA-A, 0, PHYS-190, PHYS-201, PHYS-202, PHYS-203, PHYS-270, PHYS-310, PHYS-490
+PHYS BA Major Reqs 2, PHYS-BA-B, 0; PHYS-330, PHYS-350, PHYS-370, PHYS-390; 1
+PHYS BA Major Reqs 3, PHYS-BA-C, 0; PHYS-250, PHYS-299, PHYS-310, PHYS-330, PHYS-350, PHYS-370, PHYS-390, PHYS-410, PHYS-430, PHYS-450, PHYS-470, PHYS-499; 2
+PHYS BA Major Reqs 4, PHYS-BA-D, 0; CPSC-120, CPSC-170, MATH-311, MATH-278, MATH-381, MATH-491, MATH-371, PHYS-191, CPSC-150, CHEM-111, CHEM-112, CHEM-117, CHEM-118, BIOL-190, BIOL-210, NEUR-330, MATH-268, MATH-271, MATH-288, MATH-321, MATH-331, MATH-332, MATH-342, MATH-352, MATH-361, MATH-388; 1
+Physics BA Major, PHYS-BA-M, 0, PHYS-BA-A, PHYS-BA-B, PHYS-BA-C, PHYS-BA-D
+PHYS BS Major Reqs 1, PHYS-BS-A, 0, PHYS-190, PHYS-201, PHYS-202, PHYS-203, PHYS-270, PHYS-310, PHYS-330, PHYS-350, PHYS-370, PHYS-390, PHYS-490
+PHYS BS Major Reqs 2, PHYS-BS-B, 0; CPSC-120, CPSC-150, CHEM-112, CHEM-118, BIOL-210, PHYS-191, PHYS-250, PHYS-299; 1
+PHYS BS Major Reqs 3, PHYS-BS-C, 0; PHYS-410, PHYS-430, PHYS-450, PHYS-470; 1
+PHYS BS Major Reqs 4, PHYS-BS-D-A, 0, MATH-332
+PHYS BS Major Reqs 5, PHYS-BS-D-B, 0; PHYS-410, PHYS-430, PHYS-450, PHYS-470; 2
+PHYS BS Major Reqs 6, PHYS-BS-D, 0; PHYS-BS-D-A, PHYS-BS-D-B; 1
+Physics BS Major, PHYS-BS-M, 0, PHYS-BS-A, PHYS-BS-B, PHYS-BS-C, PHYS-BS-D
+PYED Major Reqs 1, PYED-A, 0, EDUC-210, EDUC-240, EDUC-250, EDUC-300, EDUC-332, EDUC-352, EDUC-380, EDUC-452; EDUC-472, EDUC-474; 2
+PYED Major Reqs 2, PYED-B, 0, MATH-121, MATH-122, PHYS-190, PHYS-191, PHYS-201, PHYS-202, PHYS-203, PHYS-310, PHYS-490
+Physics Education BA Major, PYED-M, 0, PYED-A, PYED-B
+POLI Major Reqs 1, POLI-A, 0, POLI-111, POLI-112, POLI-209, POLI-231, POLI-250, POLI-401; POLI-201, POLI-202, POLI-205, POLI-214, POLI-256, POLI-270, POLI-311, POLI-312; 1
+POLI Major Reqs 2, POLI-B, 0; POLI-221, POLI-222, POLI-223, POLI-224, POLI-225; 1
+POLI Major Reqs 3, POLI-C, 0; POLI-244, POLI-245, POLI-246; 1
+POLI Major Reqs 4, POLI-D, 0; POLI-177-IL, POLI-201, POLI-202, POLI-205, POLI-214, POLI-221, POLI-222, POLI-223, POLI-224, POLI-225, POLI-232, POLI-233, POLI-234, POLI-244, POLI-245, POLI-246, POLI-247, POLI-256, POLI-261, POLI-270, POLI-277-IL, POLI-311, POLI-312, POLI-333, POLI-351, POLI-352, POLI-353, POLI-395; 5
+POLI Major Reqs 5, POLI-E, 0; INQ-260-PS, HNRS-260-PS, INQ-177-IL, INQ-277-IL, INQ-377-IL, POLI-177-IL, POLI-201, POLI-202, POLI-205, POLI-214, POLI-221, POLI-222, POLI-223, POLI-224, POLI-225, POLI-232, POLI-233, POLI-234, POLI-244, POLI-245, POLI-246, POLI-247, POLI-256, POLI-261, POLI-270, POLI-277-IL, POLI-311, POLI-312, POLI-333, POLI-351, POLI-352, POLI-353, POLI-395; 6
+Political Science BA Major, POLI-M, 0, POLI-A, POLI-B, POLI-C, POLI-D, POLI-E
+PSYC BA Major Reqs 1, PSYC-BA-A, 0, PSYC-101, PSYC-390, PSYC-202, PSYC-204; PSYC-410, PSYC-415, PSYC-430; 1
+PSYC BA Major Reqs 2, PSYC-BA-B, 0; PSYC-221, PSYC-321, PSYC-322, PSYC-323, PSYC-325, PSYC-329; 1
+PSYC BA Major Reqs 3, PSYC-BA-C, 0; PSYC-231, PSYC-330, PSYC-332, PSYC-335, PSYC-336, PSYC-339; 1
+PSYC BA Major Reqs 4, PSYC-BA-D, 0; PSYC-241, PSYC-341, PSYC-342, PSYC-344, PSYC-349; 1
+PSYC BA Major Reqs 5, PSYC-BA-E, 0; PSYC-251, PSYC-351, PSYC-355, PSYC-359; 1
+PSYC BA Major Reqs 6, PSYC-BA-F, 0; PSYC-221, PSYC-231, PSYC-241, PSYC-251; 2
+PSYC BA Major Reqs 7, PSYC-BA-G, 0; PSYC-351, PSYC-355, PSYC-359, PSYC-341, PSYC-342, PSYC-344, PSYC-349, PSYC-330, PSYC-332, PSYC-335, PSYC-336, PSYC-339, PSYC-321, PSYC-322, PSYC-323, PSYC-325, PSYC-329; 2
+PSYC BA Major Reqs 8, PSYC-BA-H, 0; PSYC-221, PSYC-231, PSYC-241, PSYC-251, PSYC-277-IL, PSYC-319, PSYC-351, PSYC-355, PSYC-359, PSYC-341, PSYC-342, PSYC-344, PSYC-349, PSYC-330, PSYC-332, PSYC-335, PSYC-336, PSYC-339, PSYC-321, PSYC-322, PSYC-323, PSYC-325, PSYC-329, PSYC-377-IL, PSYC-381, PSYC-382, PSYC-383, PSYC-384, PSYC-415, INQ-260-PY, HNRS-260-PY; 7
+Psychology BA Major, PSYC-BA-M, 0, PSYC-BA-A, PSYC-BA-B, PSYC-BA-C, PSYC-BA-D, PSYC-BA-E, PSYC-BA-F, PSYC-BA-G, PSYC-BA-H
+PSYC BS Major Reqs 1, PSYC-BS-A, 0; PSYC-101, INQ-260-PY, HNRS-260-PY; 1
+PSYC BS Major Reqs 2, PSYC-BS-B, 0, PSYC-390; PSYC-202, PSYC-204; 1
+PSYC BS Major Reqs 3, PSYC-BS-C, 0; PSYC-410, PSYC-415, PSYC-430; 2
+PSYC BS Major Reqs 4, PSYC-BS-D, 0; PSYC-221, PSYC-321, PSYC-322, PSYC-323, PSYC-325, PSYC-329; 1
+PSYC BS Major Reqs 5, PSYC-BS-E, 0; PSYC-231, PSYC-330, PSYC-332, PSYC-335, PSYC-336, PSYC-339; 1
+PSYC BS Major Reqs 6, PSYC-BS-F, 0; PSYC-241, PSYC-341, PSYC-342, PSYC-344, PSYC-349; 1
+PSYC BS Major Reqs 7, PSYC-BS-G, 0; PSYC-251, PSYC-351, PSYC-355, PSYC-359; 1
+PSYC BS Major Reqs 8, PSYC-BS-H, 0; PSYC-221, PSYC-231, PSYC-241, PSYC-251; 2
+PSYC BS Major Reqs 9, PSYC-BS-I, 0; PSYC-351, PSYC-355, PSYC-359, PSYC-341, PSYC-342, PSYC-344, PSYC-349, PSYC-330, PSYC-332, PSYC-335, PSYC-336, PSYC-339, PSYC-321, PSYC-322, PSYC-323, PSYC-325, PSYC-329; 2
+PSYC BS Major Reqs 10, PSYC-BS-J, 0; PSYC-221, PSYC-231, PSYC-241, PSYC-251, PSYC-277-IL, PSYC-319, PSYC-351, PSYC-355, PSYC-359, PSYC-341, PSYC-342, PSYC-344, PSYC-349, PSYC-330, PSYC-332, PSYC-335, PSYC-336, PSYC-339, PSYC-321, PSYC-322, PSYC-323, PSYC-325, PSYC-329, PSYC-377-IL, PSYC-381, PSYC-382, PSYC-383, PSYC-384, PSYC-415, INQ-260-PY, HNRS-260-PY PSYC-101; 8
+Psychology BS Major, PSYC-BS-M, 0, PSYC-BS-A, PSYC-BS-B, PSYC-BS-C, PSYC-BS-D, PSYC-BS-E, PSYC-BS-F, PSYC-BS-G, PSYC-BS-H, PSYC-BS-I, PSYC-BS-J
+PHST Major Reqs 1, PHST-A, 0, PHST-201, PHST-202, PHST-301, PHST-420
+PHST Major Reqs 2, PHST-B, 0; SOCI-352, PSYC-202, POLI-209, COMM-350, ECON-348; 1
+PHST Major Reqs 4, PHST-D, 0; ACSI-201, BIOL-235, ECON-227, PHST-302, POLI-351, PSYC-221, SOCI-201, SOCI-223, SOCI-325; 2
+PHST Major Reqs 5, PHST-E, 0; ANTH-101, ANTH-212, ANTH-380, BIOL-106, BIOL-180, BIOL-190, BIOL-230, BIOL-420, BUAD-218, BUAD-254, BUAD-274, CHEM-221, CHEM-222, CHEM-270, CHEM-340, CHEM-341, CHEM-342, ENSC-101, ENSC-270, ENST-240, ENST-290, HHP-208, HHP-325, HHP-402, CPSC-150, CPSC-301, CPSC-302, PHIL-101, PHST-405, PHST-406, PHST-407, PHST-416, PHST-495, PHST-496, PHST-497, POLI-270, PSYC-231, PSYC-321, PSYC-322, PSYC-323, PSYC-330, NEUR-330, PSYC-332, PSYC-383, SOCI-101, SOCI-242, SOCI-337, SOCI-340, SOCI-375, SPAN-380, ACSI-201, BUAD-201, BIOL-235, ECON-227, POLI-351, PSYC-221, SOCI-201, SOCI-223, SOCI-325, PHST-302, PHIL-223; 5
+Public Health Studies BA Major, PHST-M, 0, PHST-A, PHST-B, PHST-D, PHST-E
+RLST Major Reqs 1, RLST-A, 0, RELG-130, RELG-295, RELG-491
+RLST Major Reqs 2, RLST-B-A, 0; RELG-204, RELG-205, RELG-141, RELG-241; 2
+RLST Major Reqs 3, RLST-B-B, 0; RELG-204, RELG-243, RELG-207, RELG-241; 2
+RLST Major Reqs 4, RLST-B-C, 0; RELG-204, RELG-205, RELG-141, RELG-207; 2
+RLST Major Reqs 5, RLST-B-D, 0; RELG-204, RELG-243, RELG-141, RELG-241; 2
+RLST Major Reqs 6, RLST-B, 0; RLST-B-A, RLST-B-B, RLST-B-C, RLST-B-D; 1
+RLST Major Reqs 7, RLST-C, 0; RELG-301, RELG-317, RELG-340, RELG-370; 2
+RLST Major Reqs 8, RLST-D, 0; RELG-201, RELG-202, RELG-204, RELG-207, RELG-210, RELG-211, RELG-212, RELG-216, RELG-217, RELG-220, RELG-225, RELG-231, RELG-232, RELG-235, RELG-241, RELG-243, RELG-245, RELG-246, RELG-250, RELG-270, RELG-277-IL, RELG-282, RELG-284, RELG-286, RELG-301, RELG-317, RELG-340, RELG-370, RELG-415; 4
+Relgious Studies BA Major, RLST-M, 0, RLST-A, RLST-B, RLST-C, RLST-D
+SSED Major Reqs 1, SSED-A, 0, EDUC-210, EDUC-240, EDUC-250, EDUC-300, EDUC-332, EDUC-352, EDUC-380, EDUC-452; EDUC-472, EDUC-474; 2
+SSED Major Reqs 2, SSED-B, 0, POLI-201, POLI-112, GEOG-110, HIST-120, HIST-130, HIST-140, HIST-200, POLI-111, RELG-130; ECON-121, ECON-122; 1
+Social Studies Education BA Major, SSED-M, 0, SSED-A, SSED-B
+SOCI Major Reqs 1, SOCI-A, 0, SOCI-101, SOCI-201, SOCI-350, SOCI-351, SOCI-352, SOCI-454
+SOCI Major Reqs 2, SOCI-B, 0; SOCI-315, SOCI-320, SOCI-325, SOCI-326, SOCI-329, SOCI-331, SOCI-334, SOCI-335, SOCI-337, SOCI-338, SOCI-340, SOCI-360, SOCI-361, SOCI-365, SOCI-375, SOCI-377-IL, SOCI-395, SOCI-396; 3
+SOCI Major Reqs 3, SOCI-C, 0; ANTH-310, ANTH-380, PHST-201, PHST-202, PHST-301, PHST-405, PHST-406, PHST-406, PHST-416, PHST-495, PHST-496, PHST-497, SOCI-215, SOCI-223, SOCI-224, SOCI-226, SOCI-229, SOCI-235, SOCI-236, SOCI-237, SOCI-238, SOCI-240, SOCI-241, SOCI-260, SOCI-261, SOCI-277-IL, SOCI-315, SOCI-320, SOCI-325, SOCI-326, SOCI-329, SOCI-331, SOCI-334, SOCI-335, SOCI-337, SOCI-338, SOCI-340, SOCI-360, SOCI-361, SOCI-365, SOCI-375, SOCI-377-IL, SOCI-395, SOCI-396; 4
+SOCI Major Reqs 4, SOCI-D, 0; ANTH-212, ANTH-101, PHST-301, PHST-405, PHST-406, PHST-406, PHST-416, PHST-495, PHST-496, PHST-497, SOCI-215, SOCI-223, SOCI-224, SOCI-226, SOCI-229, SOCI-235, SOCI-236, SOCI-237, SOCI-238, SOCI-240, SOCI-241, SOCI-260, SOCI-261, SOCI-277-IL, SOCI-315, SOCI-320, SOCI-325, SOCI-326, SOCI-329, SOCI-331, SOCI-334, SOCI-335, SOCI-337, SOCI-338, SOCI-340, SOCI-360, SOCI-361, SOCI-365, SOCI-375, SOCI-377-IL, SOCI-395, SOCI-396; 4
+Sociology BA Major, SOCI-M, 0, SOCI-A, SOCI-B, SOCI-C, SOCI-D
+SPAN Major Reqs 1, SPAN-A, 0, SPAN-303, SPAN-304, SPAN-311, SPAN-312, SPAN-320, SPAN-323; SPAN-402, SPAN-403; 1
+SPAN Major Reqs 2, SPAN-B, 0; SPAN-410, SPAN-420, SPAN-430, SPAN-480; 2
+SPAN Major Reqs 3, SPAN-C, 0; SPAN-403, SPAN-402, SPAN-410, SPAN-420, SPAN-430, SPAN-480, HIST-272, SPAN-315, SPAN-330, SPAN-332, SPAN-335, SPAN-340, SPAN-341, SPAN-380, LING-320; 5
+SPAN Major Reqs 4, SPAN-D, 0; SPAN-403, SPAN-402, SPAN-410, SPAN-420, SPAN-430, SPAN-480, POLI-225, SPAN-315, SPAN-330, SPAN-332, SPAN-335, SPAN-340, SPAN-341, SPAN-380, LING-320; 5
+Spanish BA Major, SPAN-M, 0, SPAN-A, SPAN-B; SPAN-C, SPAN-D; 1
+SPED Major Reqs 1, SPED-A, 0, EDUC-210, EDUC-240, EDUC-250, EDUC-300, EDUC-332, EDUC-352, EDUC-380, EDUC-452; EDUC-472, EDUC-474; 2
+SPED Major Reqs 2, SPED-B, 0, SPAN-303, SPAN-304, SPAN-311, SPAN-312, SPAN-338, SPAN-402; SPAN-320, SPAN-323; 1
+SPED Major Reqs 3, SPED-C, 0; SPAN-410, SPAN-420, SPAN-430, SPAN-480; 1
+Spanish Education BA Major, SPED-M, 0, SPED-A, SPED-B, SPED-C
+SPMT Major Reqs 1, SPMT-A, 0, HHP-208, HHP-221, HHP-223, HHP-301, HHP-313, HHP-315, HHP-412, BUAD-215, BUAD-233, BUAD-254, BUAD-364, ECON-121, HHP-223, HHP-418
+Sports Management BS Major, SPMT-M, 0, SPMT-A
+TSLE Major Reqs 1, TSLE-A, 0, EDUC-210, EDUC-240, EDUC-250, EDUC-300, EDUC-332, EDUC-352, EDUC-380, EDUC-452; EDUC-472, EDUC-474; 2
+TSLE Major Reqs 2, TSLE-B, 0, LING-320, EDUC-331, EDUC-371, LANG-338; ENGL-321, SPAN-402; 1
+TSLE Major Reqs 3, TSLE-C, 0; CHIN-202, FREN-202, GREK-202, GRMN-202, ITAL-202, JAPN-202, LATN-202, RUSS-202, SPAN-202, LANG-221, LANG-222, GREK-250, FREN-277-IL, SPAN-277-IL, FREN-301, GRMN-301, FREN-302, FREN-303, SPAN-303, SPAN-304, CHIN-306, ITAL-306, JAPN-306, RUSS-306, GRMN-311, SPAN-311, FREN-312, SPAN-312, GRMN-314, FREN-315, GRMN-315, SPAN-315, GRMN-320, GRMN-321, FREN-330, FREN-338, SPAN-338, SPAN-340, FREN-341, LANG-341, SPAN-341, FREN-377-IL, SPAN-377-IL, FREN-380, GRMN-380, FREN-420, FREN-421, FREN-431, FREN-441, FREN-451, FREN-461, FREN-480; 2
+Teaching Eng as A Second Lang BA Major, TSLE-M, 0, TSLE-A, TSLE-B, TSLE-C
+ENVS Major Reqs 1, ENVS-A, 0, ENSC-101, ENST-103, ENST-105, ENSC-270, ENST-430
+ENVS Major Reqs 2, ENVS-B-A, 0, BIOL-180, BIOL-190, CHEM-111, CHEM-112, CHEM-117, CHEM-118; BIOL-205, ENSC-220, ENSC-230; 1
+ENVS Major Reqs 3, ENVS-B-B-A, 0; ENSC-361, ENSC-365, ENSC-370, ENSC-380; 1
+ENVS Major Reqs 4, ENVS-B-B-B, 0; BIOL-205, ENSC-220, ENSC-230, ENSC-261, ENSC-265; 2
+ENVS Major Reqs 5, ENVS-B-B-C, 0; ENSC-357-HI, ENSC-361, ENSC-365, ENSC-370, ENSC-380; 1
+ENVS Major Reqs 5, ENVS-B-B-D, 0; ENSC-357-HI, ENSC-361, ENSC-365, ENSC-370, ENSC-380; 2
+ENVS Major Reqs 6, ENVS-B-B-E, 0, ENVS-B-B-A, ENVS-B-B-D
+ENVS Major Reqs 7, ENVS-B-B-F, 0, ENVS-B-B-B, ENVS-B-B-C
+ENVS Major Reqs 8, ENVS-B-B, 0; ENVS-B-B-E, ENVS-B-B-F; 1
+ENVS Major Reqs 9, ENVS-B-C-A, 0; BIOL-205, BIOL-235, BIOL-240, BIOL-265, BIOL-270, BIOL-280, BIOL-300, BIOL-335, BIOL-340, CHEM-221, CHEM-260, CHEM-270; 2
+ENVS Major Reqs 10, ENVS-B-C-B, 0; BIOL-235, BIOL-240, BIOL-265, BIOL-270, BIOL-280, BIOL-300, BIOL-335, BIOL-340, CHEM-221, CHEM-260, CHEM-270; 2
+ENVS Major Reqs 11, ENVS-B-C-C, 0; ENSC-220, ENSC-230, ENSC-261, ENSC-265; 2
+ENVS Major Reqs 12, ENVS-B-C-D, 0, BIOL-205; ENSC-220, ENSC-230, ENSC-261, ENSC-265; 1
+ENVS Major Reqs 13, ENVS-B-C-E, 0, ENVS-B-C-A, ENVS-B-C-C
+ENVS Major Reqs 14, ENVS-B-C-F, 0, ENVS-B-C-B, ENVS-B-C-D
+ENVS Major Reqs 15, ENVS-B-C, 0; ENVS-B-C-E, ENVS-B-C-F; 1
+ENVS Major Reqs 16, ENVS-B-D, 0; ENST-210, ENST-212, ENST-232, ENST-240, ENST-260, ENST-290, ENST-341, ENST-351, ENST-360, ECON-287, POLI-351, SOCI-337; 1
+ENVS Major Reqs 17, ENVS-B, 0, ENVS-B-A, ENVS-B-B, ENVS-B-C, ENVS-B-D
+ENVS Major Reqs 18, ENVS-C-A, 0; POLI-201, ECON-287, ECON-121, POLI-202, POLI-205, SOCI-215, SOCI-335, SOCI-340; 2
+ENVS Major Reqs 19, ENVS-C-B, 0; SOCI-351, SOCI-352, POLI-209, ECON-348; 1
+ENVS Major Reqs 20, ENVS-C-C, 0; ENST-341, ENST-351, ENST-360, ENST-371; 1
+ENVS Major Reqs 21, ENVS-C-D-A, 0; ENST-210, ENST-212, ENST-232, ENST-240, ENST-260, ENST-290, ENST-341, ENST-351, ENST-360, ECON-287, POLI-351, SOCI-337; 1 
+ENVS Major Reqs 22, ENVS-C-D-B, 0; ENST-210, ENST-212, ENST-232, ENST-240, ENST-260, ENST-290, ENST-341, ENST-351, ENST-360, POLI-351, SOCI-337; 1
+ENVS Major Reqs 23, ENVS-C-D-C, 0; POLI-201, ECON-121, POLI-202, POLI-205, SOCI-215, SOCI-335, SOCI-340; 2
+ENVS Major Reqs 24, ENVS-C-D-D, 0, ECON-287; POLI-201, ECON-121, POLI-202, POLI-205, SOCI-215, SOCI-335, SOCI-340; 1
+ENVS Major Reqs 25, ENVS-C-D-E, 0, ENVS-C-D-A, ENVS-C-D-C
+ENVS Major Reqs 26, ENVS-C-D-F, 0, ENVS-C-D-B, ENVS-C-D-D
+ENVS Major Reqs 27, ENVS-C-D, 0; ENVS-C-D-E, ENVS-C-D-F; 1
+ENVS Major Reqs 28, ENVS-C-E, 0; ENSC-220, ENSC-230, ENSC-261, ENSC-265, ENSC-357-HI, ENSC-361, ENSC-365, ENSC-370, ENSC-380; 2
+ENVS Major Reqs 29, ENVS-C, 0, ENVS-C-A, ENVS-C-B, ENVS-C-C, ENVS-C-D, ENVS-C-E
+ENVS Major Reqs 30, ENVS-D-A, 0, ENST-212, ENST-240
+ENVS Major Reqs 31, ENVS-D-B, 0; SOCI-351, SOCI-352, POLI-209, ANTH-310, COMM-254, HHP-230; 1
+ENVS Major Reqs 32, ENVS-D-C, 0; ENST-341, ENST-351; 1
+ENVS Major Reqs 33, ENVS-D-D, 0; ENST-210, ENST-212, ENST-240, ENST-260, ENST-341, ENST-351, ENST-360; 4
+ENVS Major Reqs 34, ENVS-D-E, 0; ECON-287, POLI-351, SOCI-337, SOCI-215, SOCI-335, ANTH-203, ANTH-380, BUAD-264, PEAC-201, PHST-201, PHST-331, SOCI-331, POLI-250, POLI-352, RELG-207, SOCI-201, SOCI-224, SOCI-241; 1
+ENVS Major Reqs 35, ENVS-D-F, 0; ENSC-220, ENSC-230, ENSC-261, ENSC-265, ENSC-357-HI, ENSC-361, ENSC-365, ENSC-370, ENSC-380; 2
+ENVS Major Reqs 36, ENVS-D, 0, ENVS-D-A, ENVS-D-B, ENVS-D-C, ENVS-D-D, ENVS-D-E, ENVS-D-F
+Environmental Studies BS Major, ENVS-M, 0, ENVS-A; ENVS-B, ENVS-C, ENVS-D; 1
